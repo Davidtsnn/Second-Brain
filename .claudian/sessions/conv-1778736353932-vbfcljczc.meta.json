@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778736353932-vbfcljczc",
+  "providerId": "claude",
+  "title": "Organize consulting project timeline",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778736353940,
+  "updatedAt": 1778741195966,
+  "lastResponseAt": 1778741195966,
+  "sessionId": "4ef19b6e-6348-4a98-8b29-d4f8f95f171b",
+  "providerState": {
+    "providerSessionId": "4ef19b6e-6348-4a98-8b29-d4f8f95f171b"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 525,
+    "cacheReadInputTokens": 58562,
+    "contextWindow": 200000,
+    "contextTokens": 59088,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778699156272-29swtsy1y",
+  "providerId": "claude",
+  "title": "I notice you've just greeted me with \"Hello\" bu...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778699156288,
+  "updatedAt": 1778735593900,
+  "lastResponseAt": 1778707068445,
+  "sessionId": "dabca793-7373-4521-b11d-8a2905e657d2",
+  "providerState": {
+    "providerSessionId": "dabca793-7373-4521-b11d-8a2905e657d2"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1441,
+    "cacheReadInputTokens": 68756,
+    "contextWindow": 200000,
+    "contextTokens": 70198,
+    "percentage": 35,
+    "contextWindowIsAuthoritative": true
+  }
+}
