@@ -16,9 +16,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Täglich um 7:00 Uhr (Europe/Berlin) läuft ein Remote Agent (`trig_01HZWcyweA9HnX2kLd1CHrfv`) der das Vault liest und ein Debrief erstellt.
 
-**Zustellung:** Push Notification via Claude App (PushNotification Tool).
-- Sperrbildschirm: kurze Zusammenfassung (max. 200 Zeichen) mit den 2-3 dringendsten Punkten
-- Vollständiges Debrief: sichtbar in claude.ai/code/routines wenn man drauftippt
+**Zustellung (aktuell):** Manuell — Debrief liegt täglich um 7 Uhr in claude.ai/code/routines bereit.
+**Zustellung (geplant):** Sobald David ein neues iPhone hat → Claude App einrichten → Push Notification direkt aufs Handy.
 
 **Vault-Sync:** Damit der Agent immer den aktuellen Stand liest, Vault-Änderungen regelmäßig pushen:
 ```bash
