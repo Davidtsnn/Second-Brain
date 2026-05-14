@@ -3,7 +3,7 @@ name: Daily Debrief → Discord
 on:
   schedule:
     - cron: '0 5 * * *'  # 07:00 Uhr Berlin (UTC+2) = 05:00 UTC
-  workflow_dispatch:      # Manuell triggerbar zum Testen
+  workflow_dispatch:
 
 jobs:
   debrief:
@@ -15,31 +15,27 @@ jobs:
       - name: Debrief generieren und zu Discord senden
         run: |
           python3 - <<'PYEOF'
-          import json, re, glob, sys
+          import os, json, re, glob
+          import urllib.request
           from datetime import datetime, timedelta
 
           today = datetime.today()
           webhook = "${{ secrets.DISCORD_WEBHOOK_URL }}"
 
-          # Wochentag auf Deutsch
           tage = ['Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag','Sonntag']
           wochentag = tage[today.weekday()]
           datum = today.strftime('%d.%m.%Y')
 
-          # Alle relevanten Dateien einlesen
           paths = (
               glob.glob('02 Projekte/*.md') +
               glob.glob('03 Bereiche/Uni/*.md') +
               glob.glob('03 Bereiche/BYTC/*.md') +
               ['To Do.md']
           )
-
-          # Neueste Daily Note
           daily_notes = sorted(glob.glob('05 Daily Notes/*.md'))
           if daily_notes:
               paths.append(daily_notes[-1])
 
-          # Datum-Pattern für Deadlines
           date_pattern = re.compile(r'(\d{2})\.(\d{2})\.(\d{2,4})')
 
           def parse_date(s):
@@ -54,7 +50,6 @@ jobs:
               except:
                   return None
 
-          # Projekte mit offenen Todos sammeln
           results = []
           for path in paths:
               if not os.path.exists(path):
@@ -63,13 +58,10 @@ jobs:
                   content = open(path, encoding='utf-8').read()
               except:
                   continue
-
               name = os.path.basename(path).replace('.md', '')
               open_todos = re.findall(r'- \[ \] (.+)', content)
               if not open_todos:
                   continue
-
-              # Relevante Todos filtern (Deadline in 30 Tagen oder ohne Datum)
               relevant = []
               for todo in open_todos:
                   d = parse_date(todo)
@@ -77,34 +69,27 @@ jobs:
                       relevant.append((d, todo.strip()))
                   elif not d and len(todo.strip()) > 3:
                       relevant.append((today + timedelta(days=999), todo.strip()))
-
               if relevant:
                   relevant.sort(key=lambda x: x[0])
                   results.append((min(r[0] for r in relevant), name, relevant[:2]))
 
           results.sort(key=lambda x: x[0])
 
-          # Briefing bauen
           lines = [f'☀️ **Guten Morgen, David — {wochentag}, {datum}**\n']
-
           if results:
               lines.append('**Projekte & Bereiche**\n')
               for _, name, todos in results[:6]:
                   lines.append(f'**{name}**')
                   for dt, todo in todos:
                       deadline = f' — {dt.strftime("%d.%m")}' if dt < today + timedelta(days=31) else ''
-                      # Kürzen falls zu lang
                       todo_short = todo[:80] + '...' if len(todo) > 80 else todo
                       lines.append(f'• {todo_short}{deadline}')
                   lines.append('')
           else:
               lines.append('Keine offenen Deadlines in den nächsten 30 Tagen. Guter Tag! 🎉\n')
-
           lines.append('📋 Vollständige Details in deinem Vault.')
 
           message = '\n'.join(lines)
-
-          # Discord Limit: 2000 Zeichen — aufteilen falls nötig
           chunks = []
           while len(message) > 1900:
               split = message.rfind('\n', 0, 1900)
