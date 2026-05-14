@@ -1,0 +1,14 @@
+name: Test Discord Notification
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Discord Webhook
+        run: |
+          curl -s -H "Content-Type: application/json" \
+            -d '{"content": "✅ **Test erfolgreich!** Discord Notifications funktionieren — deine Erinnerungen und der Daily Debrief werden hier ankommen."}' \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}"
