@@ -1,0 +1,15 @@
+name: Erinnerung – BYTC Notar
+
+on:
+  schedule:
+    - cron: '0 18 14 5 *'  # 20:00 Uhr Berlin (UTC+2) = 18:00 UTC, 14. Mai
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Discord Erinnerung senden
+        run: |
+          curl -s -H "Content-Type: application/json" \
+            -d '{"content": "🔔 **Erinnerung:** BYTC Notar — Unterlagen prüfen und einreichen. Du wolltest das heute Abend erledigen!"}' \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}"

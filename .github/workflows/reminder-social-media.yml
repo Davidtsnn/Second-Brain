@@ -1,0 +1,15 @@
+name: Erinnerung – Social Media Grobkonzept
+
+on:
+  schedule:
+    - cron: '0 21 16 5 *'  # 23:00 Uhr Berlin (UTC+2) = 21:00 UTC, 16. Mai (Samstag)
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Discord Erinnerung senden
+        run: |
+          curl -s -H "Content-Type: application/json" \
+            -d '{"content": "🔔 **Erinnerung:** Social Media Grobkonzept — Postideen für Dienstag ausarbeiten. Perfekt für die ICE-Fahrt jetzt! 🚄"}' \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}"

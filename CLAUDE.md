@@ -10,7 +10,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **AI Integration:** Claudian plugin (`realclaudian` v2.0.14) embeds Claude Code inside Obsidian. Vault root is the working directory. Always use relative paths (never absolute `/Users/...` paths).
 
-**Installed Skills** (`.claude/skills/`): obsidian-markdown, obsidian-bases, json-canvas, obsidian-cli, defuddle.
+**Installed Skills** (`.claude/skills/`): obsidian-markdown, obsidian-bases, json-canvas, obsidian-cli, defuddle, daily-debrief.
+
+## Daily Debrief
+
+Täglich um 7:00 Uhr (Europe/Berlin) läuft ein Remote Agent (`trig_01HZWcyweA9HnX2kLd1CHrfv`) der das Vault liest und ein Debrief erstellt.
+
+**Zustellung:** Push Notification via Claude App (PushNotification Tool).
+- Sperrbildschirm: kurze Zusammenfassung (max. 200 Zeichen) mit den 2-3 dringendsten Punkten
+- Vollständiges Debrief: sichtbar in claude.ai/code/routines wenn man drauftippt
+
+**Vault-Sync:** Damit der Agent immer den aktuellen Stand liest, Vault-Änderungen regelmäßig pushen:
+```bash
+cd "/Users/davidglock/Documents/Second Brain/Second Brain"
+git add . && git commit -m "Vault update" && git push
+```
+
+**Repo:** https://github.com/Davidtsnn/Second-Brain
 
 ---
 
