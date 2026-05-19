@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779091512349-0ykncmlxk",
+  "providerId": "claude",
+  "title": "Start vault session",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779091512349,
+  "updatedAt": 1779181178174,
+  "lastResponseAt": 1779093203305,
+  "sessionId": "b4855dac-2e6b-4bd8-ba71-08e9b33c16c2",
+  "providerState": {
+    "providerSessionId": "b4855dac-2e6b-4bd8-ba71-08e9b33c16c2"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 9894,
+    "cacheReadInputTokens": 57098,
+    "contextWindow": 1000000,
+    "contextTokens": 66994,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

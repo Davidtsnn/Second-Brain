@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778966794296-oyo6xuqd8",
+  "providerId": "claude",
+  "title": "Store consulting report context for next report",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778966794303,
+  "updatedAt": 1779091504561,
+  "lastResponseAt": 1778966855646,
+  "sessionId": "d046d00c-4930-4bcc-9635-0e8932151acb",
+  "providerState": {
+    "providerSessionId": "d046d00c-4930-4bcc-9635-0e8932151acb"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2372,
+    "cacheReadInputTokens": 25911,
+    "contextWindow": 1000000,
+    "contextTokens": 28285,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

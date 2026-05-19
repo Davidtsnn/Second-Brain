@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779108398339-8brjsdmz8",
+  "providerId": "claude",
+  "title": "Build Social Media Concept Agent",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779108398347,
+  "updatedAt": 1779181183791,
+  "lastResponseAt": 1779111368075,
+  "sessionId": "576a33d7-9b92-4880-ad70-cb8b8745204a",
+  "providerState": {
+    "providerSessionId": "576a33d7-9b92-4880-ad70-cb8b8745204a"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3602,
+    "cacheReadInputTokens": 40521,
+    "contextWindow": 1000000,
+    "contextTokens": 44125,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

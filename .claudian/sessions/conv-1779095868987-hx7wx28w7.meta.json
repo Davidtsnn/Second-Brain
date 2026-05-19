@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779095868987-hx7wx28w7",
+  "providerId": "claude",
+  "title": "Make One-Pot Tomato Basil Pasta",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779095868988,
+  "updatedAt": 1779103065090,
+  "lastResponseAt": 1779099983197,
+  "sessionId": "a5a6ce00-93ed-4130-baa9-61857a711ead",
+  "providerState": {
+    "providerSessionId": "a5a6ce00-93ed-4130-baa9-61857a711ead"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 806,
+    "cacheReadInputTokens": 27108,
+    "contextWindow": 1000000,
+    "contextTokens": 27916,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

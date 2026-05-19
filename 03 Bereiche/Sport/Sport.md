@@ -4,15 +4,20 @@ tags: [bereich]
 
 # Sport
 
-## Beschreibung
+## Überblick
 
-Fitness und Ausdauer als laufende Priorität. Gym, Laufen, Halbmarathon als nächstes Ziel, danach Marathon.
+Zwei parallele Säulen: **Krafttraining** (Gym) und **Ausdauer** (Laufen). Beides läuft seit Jahren regelmäßig, beides hat konkrete Ziele für 2026.
 
-## Aktive Themen
+## Aktuelle Ziele
 
-- Lauftraining Halbmarathon
-- Gym
+| Ziel | Deadline | Status |
+|---|---|---|
+| Halbmarathon laufen | Sonntag, 17.05.26 | 🔴 Diese Woche |
+| 80 kg Körpergewicht | August 2026 | 🟡 Aktuell 71 kg |
+| Marathon laufen | Ende 2026 | 🟡 In Planung |
+| Neues Gym finden | So bald wie möglich | 🟡 Suche läuft |
 
 ## Referenzen
 
-- [[02 Projekte/Sport Halbmarathon]]
+- [[02 Projekte/Sport Halbmarathon]] — Laufen, Halbmarathon, Marathon
+- [[02 Projekte/Sport Gym & Aufbau]] — Krafttraining, Gewichtsziel

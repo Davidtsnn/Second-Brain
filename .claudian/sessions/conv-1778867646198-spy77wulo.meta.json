@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778867646198-spy77wulo",
+  "providerId": "claude",
+  "title": "Create new Daily Debrief routine",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778867646207,
+  "updatedAt": 1778966736328,
+  "lastResponseAt": 1778867770504,
+  "sessionId": "8ee93f04-2b11-479f-9ae8-27fdc3e9b0e5",
+  "providerState": {
+    "providerSessionId": "8ee93f04-2b11-479f-9ae8-27fdc3e9b0e5"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 404,
+    "cacheReadInputTokens": 39311,
+    "contextWindow": 1000000,
+    "contextTokens": 39716,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

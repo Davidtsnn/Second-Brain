@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778783854034-r4ak16d6z",
+  "providerId": "claude",
+  "title": "Revise CTAs and CV based on feedback",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778783854045,
+  "updatedAt": 1778966737037,
+  "lastResponseAt": 1778784145841,
+  "sessionId": "cf2192d4-d4c6-431b-9684-514d18d6642c",
+  "providerState": {
+    "providerSessionId": "cf2192d4-d4c6-431b-9684-514d18d6642c"
+  },
+  "currentNote": "02 Projekte/Website Psychologin.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 383,
+    "cacheReadInputTokens": 19039,
+    "contextWindow": 200000,
+    "contextTokens": 19423,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

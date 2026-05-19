@@ -7,46 +7,66 @@ datum: 2026-06-26
 
 # The Future Social Clubhouse
 
-## Überblick
+## Nächste Schritte
 
-Side Event der The Future Social Konferenz in Kooperation mit der WRS (Wirtschaftsförderung Region Stuttgart). Das Clubhouse gehört Futurum Mondo, wurde an die WRS verkauft — The Future Social bespielt es jetzt mit einem eigenen Event.
+- [ ] Kurzes Themen-Konzept ausarbeiten (20.-21.05.) ⚠️ dringend
+- [ ] Titelvorschläge brainstormen, fix bis Mitte/Ende nächster Woche (~28.05.)
+- [ ] One Pager für Speaker-Anfrage ausformulieren
+- [ ] Creator anfragen (Thomas Knüwer zuerst, Kontakt vorhanden)
+- [ ] Marvin wegen Panel-Moderation fragen
 
-**Hintergrund:** Letztes Jahr hat David The Future Social gemeinsam mit dem Gründer aufgebaut: 500 Teilnehmer, 50 Speaker, 20 Partner.
+**Termine**
+- 26.06.2026: Event, WRS Stuttgart, 11:00-15:00 + Networking
+- ~28.05.: Titel-Deadline
 
-## Details
+---
+
+## Event
 
 | | |
 |---|---|
-| **Datum** | Freitag, 26.06.2026 |
-| **Uhrzeit** | 11:00 bis max. 15:00, danach Networking |
-| **Venue** | WRS Veranstaltungsraum (max. 50-60 Personen) |
-| **Format** | 3-4 Stunden Programm |
-| **Budget** | Kein großes Budget (kleinere Speaker-Vergütung ggf. verhandelbar) |
-| **Ansprechpartner WRS** | Leo |
+| **Datum** | Fr. 26.06.2026, 11:00-15:00, danach Networking |
+| **Venue** | WRS Veranstaltungsraum Stuttgart, max. 50-60 Personen |
+| **Format** | 3 Vorträge fix (+1 wenn gut), optional Panel-Abschluss |
+| **Budget** | Kein großes Budget, kleinere Speaker-Vergütung ggf. verhandelbar |
+| **WRS Kontakt** | Leo |
 
-## Davids Rolle
+## Aufgabenteilung
 
-Speaker organisieren in Absprache mit Leo (WRS).
+| David | Leo |
+|---|---|
+| Titelvorschläge, One Pager, Creator anfragen | Agentur-Speaker anfragen |
+| Marvin wegen Moderation fragen | SWR-Whitepaper-Speaker anfragen |
+| | Budget Moderation abklären |
 
-## Themenschwerpunkt: Digitale Souveränität
+## Konzept und Titel
 
-- Wie gehen Agenturen damit um, dass Werbung auf Social Media Plattformen gemacht wird die sehr schnelllebig sind?
-- Authentizität von Influencern
-- Alternative Plattformen
+**Kernthese:** „Ohne Plattform keine Existenz." Meta dominiert, Creator, Agenturen und Marken sind komplett abhängig von Plattformen die sie nicht kontrollieren. Es gibt keine echte Alternative. Digitale Souveränität als Antwort?
+
+**Dramaturgie (3 Vorträge):**
+1. Opener: SWR/BR-Fediverse-Whitepaper (Leo, Merve Kayikci)
+2. Creator-Perspektive: Abhängigkeit und Authentizität (David, Creator anfragen)
+3. Agentur-Perspektive: Werbung auf schnelllebigen Plattformen (Leo, Agentur anfragen)
+
+**Titel-Ideen:**
+- Ohne Plattform keine Existenz: Wie abhängig sind wir von Big Tech?
+- Wem gehört unsere Reichweite?
+- Gefangen im Feed
+- Souverän trotz Big Tech
 
 ## Speaker
 
-**Ziel:** 6+ Speaker mit rotem Faden
+| Speaker | Rolle | Kontakt über | Status |
+|---|---|---|---|
+| Merve Kayikci | Opener, SWR X Lab (Fediverse-Whitepaper) | ✅ Leo | Leo fragt an |
+| Thomas Knüwer | Creator, LinkedIn-Perspektive | ✅ David | David fragt an |
+| 0711 / JvM Neckar / Preuss & Preuss | Agentur-Perspektive | Leo / WRS | Leo fragt an |
+| Sascha Pallenberg / Sebastian Klein | Creator, LinkedInfluencer (Reserve) | anfragen | offen |
+| Panel-Moderation | offen | Marvin oder HDM | David fragt Marvin |
 
-| Speaker | Thema | Status |
-|---|---|---|
-| | | |
+## Offene Fragen
 
-## Nächste Schritte
-
-- [ ] Speaker-Longlist gemeinsam mit Leo entwickeln
-- [ ] Roten Faden für Speaker-Lineup definieren
-- [ ] Speaker anfragen und bestätigen (min. 6)
-- [ ] Programm ausarbeiten (11:00 - 15:00)
-
-## Notizen
+- Wer stellt am Ende das Event vor: The Future Social oder The Future Creatives?
+- Panel-Moderation: Marvin konkret anfragen, sonst HDM
+- Sponsoring: dürfen wir werben? (Förderbubble ok, Rest mit Leo klären)
+- Online-Liveschalte für Speaker erlaubt?

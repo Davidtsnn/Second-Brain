@@ -20,7 +20,7 @@ BYTC UG (haftungsbeschränkt) vollständig gründen, ins Handelsregister eintrag
 | Sitz | Stuttgart |
 | Stammkapital | EUR 1.500,00 |
 | Geschäftsjahr | Kalenderjahr |
-| Notar | Sebastian Frömel |
+| Notar | Sebastian Frömel (Kontakt läuft über seine Assistentin) |
 | Gewinnverteilung | 50/50 |
 | Vorgänger-Firma | Impact Ninety UG (0€ Umsatz) |
 

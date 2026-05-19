@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779103606237-llfih69sg",
+  "providerId": "claude",
+  "title": "Check Consulting Project Info",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779103606237,
+  "updatedAt": 1779181190743,
+  "lastResponseAt": 1779103621249,
+  "sessionId": "4cfe9d16-d8ed-482e-835a-3d0fd6dd10b6",
+  "providerState": {
+    "providerSessionId": "4cfe9d16-d8ed-482e-835a-3d0fd6dd10b6"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1210,
+    "cacheReadInputTokens": 16593,
+    "contextWindow": 200000,
+    "contextTokens": 17804,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

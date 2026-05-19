@@ -10,11 +10,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **AI Integration:** Claudian plugin (`realclaudian` v2.0.14) embeds Claude Code inside Obsidian. Vault root is the working directory. Always use relative paths (never absolute `/Users/...` paths).
 
-**Installed Skills** (`.claude/skills/`): obsidian-markdown, obsidian-bases, json-canvas, obsidian-cli, defuddle, daily-debrief.
+**Installed Skills** (`.claude/skills/`): obsidian-markdown, obsidian-bases, json-canvas, obsidian-cli, defuddle, daily-debrief, day-planner.
 
 ## Daily Debrief
 
-Täglich um 7:00 Uhr (Europe/Berlin) läuft ein Remote Agent (`trig_01HZWcyweA9HnX2kLd1CHrfv`) der das Vault liest und ein Debrief erstellt.
+Täglich um 7:00 Uhr (Europe/Berlin) läuft ein Remote Agent (`trig_01Df2CVVQ9ZJ54iD5BJr212h`) der das Vault liest und ein Debrief erstellt.
 
 **Zustellung (aktuell):** Manuell — Debrief liegt täglich um 7 Uhr in claude.ai/code/routines bereit.
 **Zustellung (geplant):** Sobald David ein neues iPhone hat → Claude App einrichten → Push Notification direkt aufs Handy.
@@ -58,6 +58,8 @@ David Glock, 21, Student Online Medien Management (HdM Stuttgart, 4. Semester) u
 - **To Do.md** im Vault-Root ist die Daily To Do Liste — nur Aufgaben für heute oder die nächsten Tage
 - Aufgaben mit längeren Deadlines kommen direkt in die jeweilige Projekt- oder Bereichsdatei
 - Bei Session-Start Daily To Dos aktualisieren falls nötig
+- Alle Aufgaben die im Gespräch oder beim Aufräumen auftauchen immer aktiv eintragen (in To Do.md oder die passende Projekt-/Bereichsdatei). Keine Aufgabe verloren gehen lassen
+- Erledigte Aufgaben sofort abhaken (`- [x]`) statt offen stehen zu lassen. Beim Bearbeiten und bei Session-Start immer prüfen was schon fertig ist und abhaken
 
 ## Regeln für dieses Vault
 

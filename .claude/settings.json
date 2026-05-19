@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "(jq -r '.tool_input.file_path // \"\"' | grep -qE '05 Daily Notes/[0-9]{4}-[0-9]{2}-[0-9]{2}\\.md$' && cd \"/Users/davidglock/Documents/Second Brain/Second Brain\" && git add -A && git commit -m \"Vault update $(date +%Y-%m-%d)\" && git push) 2>/dev/null || true",
+            "statusMessage": "Vault → GitHub...",
+            "async": true
+          }
+        ]
+      }
+    ]
+  }
+}

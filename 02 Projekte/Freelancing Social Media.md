@@ -16,10 +16,10 @@ Laufend
 
 ## Aktuelle Kunden
 
-- 
+- **Linix** (DJ) → [[02 Projekte/Linix Social Konzept]]
 
 ## Nächste Schritte
 
-- [ ] 
+- [ ] Konzept für Linix ausarbeiten (siehe [[02 Projekte/Linix Social Konzept]])
 
 ## Notizen

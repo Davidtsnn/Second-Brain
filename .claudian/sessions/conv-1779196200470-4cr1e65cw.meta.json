@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779196200470-4cr1e65cw",
+  "providerId": "claude",
+  "title": "Confirm GitHub push routine",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779196200470,
+  "updatedAt": 1779196684119,
+  "lastResponseAt": 1779196684119,
+  "sessionId": "e721a180-9ecf-487e-943c-5c94252d0ed7",
+  "providerState": {
+    "providerSessionId": "e721a180-9ecf-487e-943c-5c94252d0ed7"
+  },
+  "currentNote": "01 Inbox/Brain Dump.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1036,
+    "cacheReadInputTokens": 58946,
+    "contextWindow": 200000,
+    "contextTokens": 59983,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

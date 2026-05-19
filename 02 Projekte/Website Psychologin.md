@@ -52,9 +52,7 @@ Startseite, Beratung, Seminare, Coaching, Über mich, Blog, Datenschutz, Impress
 
 ## Nächste Schritte
 
-- [ ] Erste Design-Entwürfe von Ivas Freunden abwarten und reviewen
-- [ ] Sanfte CTA-Optionen gemeinsam evaluieren
-- [ ] WordPress-Version von Iva erfragen (wegen Polylang)
+- [ ] CTA-Entwürfe an Iva schicken (bis 22.05.2026)
 - [ ] Datenschutzseite erstellen (später)
 - [ ] SEO/GEO-Optimierung für Zielgruppe (später)
 
