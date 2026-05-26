@@ -1,0 +1,68 @@
+{
+  "video_id": "8cQidXgtGmU",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=8cQidXgtGmU",
+    "videodb_id": "m-z-019e3b6f-fb9b-7eb1-9b4d-2eb3442b4f2b",
+    "creator_handle": "Kallaway",
+    "platform": "youtube",
+    "format": "long_form_educational",
+    "duration_s": 1040,
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "relative_performance": "high",
+    "noted_claim": "Based on Instagram CEO statements + outlier data"
+  },
+  "core_framework": {
+    "name": "Algorithm Mechanics Model",
+    "components": {
+      "initial_sample_test": "Algorithm shows jedes neue Video ~200 Menschen (überwiegend Non-Follower). Das ist der erste Test: Reagieren Fremde positiv?",
+      "fit_score": "Vor-Einschätzung des Algorithmus wer das Video sehen möchte. Basiert auf Kanal-History + Themen-Konsistenz.",
+      "boost_logic": "Positiv → 200 → 2.000 → 20.000 → 200.000. Neutral → Resample bei 200. Negativ → Stop sofort.",
+      "three_core_metrics": {
+        "1_watch_time": "Ø Sekunden gesehen + % Completion",
+        "2_engagement_rate": "(Likes + Comments + Shares) / Views",
+        "3_session_share": "GEHEIMER METRIC: Wie viel % der totalen Session verbringt ein User mit deinen Videos — zeigt echten Einfluss"
+      }
+    }
+  },
+  "audience_matching": {
+    "principle": "Konsistent dasselbe Thema für denselben Avatar → Algorithmus lernt Fit-Score zuverlässig",
+    "anti_pattern": "Themen-Sprung (Tech → Health → Politik) = gemischter Fit-Score = schlechtere Reichweite für alle folgenden Videos",
+    "critical_insight": "Ein viraler Hit an die FALSCHE Audience sabotiert die nächsten mehrere Videos durch verdorbene Sample-Daten"
+  },
+  "four_horsemen_of_engagement": {
+    "1": "Thema löst ein echtes Problem des idealen Zuschauers",
+    "2": "Information ist NON-OBVIOUS + taktisch umsetzbar",
+    "3": "Hohe Absorption: klar und verständlich kommuniziert",
+    "4": "Kurze Distanz zur Umsetzung: kleine Aktion → großes Ergebnis"
+  },
+  "five_comment_drivers": [
+    "1. Klare Haltung einnehmen (pro oder kontra, kein Hedging)",
+    "2. Die konträre Seite nehmen (Mehrheit denkt das Gegenteil → sie kommentieren)",
+    "3. Haltung maximal ausformulieren ('bestes Pasta-Rezept' vs. 'besser als alle Mama-Restaurants der Welt')",
+    "4. Thema um Kult-Brands/Personen/Bewegungen bauen (Menschen haben vorgefertigte Meinungen)",
+    "5. Starke Emotion triggern (mehr Gefühl = mehr Kommentar-Impuls)"
+  ],
+  "the_cake_rule": "Making great content for a specific avatar = the CAKE. Hashtags, Posting-Zeit, Captions = ICING. Focus on the cake.",
+  "patterns": {
+    "unique_mechanisms": [
+      "Sample-Test-Awareness: 200-Personen-Test mit Non-Followern → optimiere Hook + Retention für Fremde, nicht Fans",
+      "Fit-Score-Building: Themen-Konsistenz über Zeit = algorithmische Sicherheit = mehr Push",
+      "Session-Share als Secret Weapon: wer Zuschauer lange hält baut unsichtbaren Algorithmus-Bonus auf",
+      "Comment-Driver-Formel: 5 taktische Hebel für mehr Kommentare (Haltung, Kontra, Eskalation, Kult, Emotion)"
+    ],
+    "memorable_phrases": [
+      "The only thing that matters is making great videos for a specific avatar group",
+      "Everything else is icing. Focus on the cake.",
+      "Narrow your topic and audience and your sample fit will go up",
+      "Even one viral hit to the wrong audience sabotages next several videos"
+    ],
+    "content_angle": "Wissenschaftliche Demystifizierung des Algorithmus — 'Ich zeige dir was wirklich passiert unter der Haube'",
+    "virality_triggers": [
+      "Algorithm als Black Box → Neugier-Hook",
+      "CEO-Zitat als Autorität",
+      "Taktische Umsetzbarkeit = hohe Share-Rate"
+    ]
+  }
+}

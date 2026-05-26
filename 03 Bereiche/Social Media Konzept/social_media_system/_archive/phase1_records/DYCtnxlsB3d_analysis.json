@@ -1,0 +1,106 @@
+{
+  "video_id": "DYCtnxlsB3d",
+  "source": {
+    "url": "https://www.instagram.com/p/DYCtnxlsB3d/",
+    "videodb_id": "m-z-019e3b54-c359-7241-a380-dae731182c37",
+    "creator_handle": "lucas.kleinecke",
+    "platform": "instagram",
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "view_count": null,
+    "like_count": null,
+    "comment_count": null,
+    "save_count": null,
+    "relative_performance": "high"
+  },
+  "hook": {
+    "end_timestamp_s": 3.5,
+    "spoken_text": "Im Internet gibt es immer mehr Menschen, die dir erklären wollen, wie du verdammt viel Geld verdienst.",
+    "visual_description": "Vermutlich Face-Cam oder Split-Screen mit Guru-Footage",
+    "text_overlay": null,
+    "hook_type": "controversy",
+    "hook_strength_score": 8,
+    "scroll_stop_mechanism": "Kritik-Einstieg: 'immer mehr Menschen' signalisiert Markt-Kritik → Wer? Gilt das für mich? — Neugier + leichte Bedrohlichkeit."
+  },
+  "story": {
+    "framework": "system_deconstruction",
+    "acts": [
+      {
+        "label": "controversy_hook",
+        "start_s": 0.0,
+        "end_s": 3.5,
+        "transcript_excerpt": "Im Internet gibt es immer mehr Menschen, die dir erklären wollen, wie du verdammt viel Geld verdienst.",
+        "emotional_tone": "skeptisch, leicht provokativ"
+      },
+      {
+        "label": "system_reveal",
+        "start_s": 3.5,
+        "end_s": 30.0,
+        "transcript_excerpt": "die Coaching Aufwärtsspirale... Guru zeigt coole Autos... kognitive Dissonanz... Nachfrage... Angebot: Coaching",
+        "emotional_tone": "analytisch, entlarvend"
+      },
+      {
+        "label": "insight",
+        "start_s": 30.0,
+        "end_s": 76.4,
+        "transcript_excerpt": "der einzige Hebel, der diesen Erfolg erwirtschaftet, ist ihre Außenwahrnehmung",
+        "emotional_tone": "aufklärend, leicht kritisch"
+      }
+    ],
+    "tension_timestamps": [
+      0.0,
+      15.0,
+      45.0
+    ],
+    "pacing_style": "slow_burn"
+  },
+  "visual": {
+    "face_cam_percentage": 0.4,
+    "b_roll_types": [
+      "Guru-Videos/Footage",
+      "Lifestyle-Content (Autos, Reisen)",
+      "Grafik-Overlays"
+    ],
+    "text_overlay_frequency": "high",
+    "cut_rate_per_minute": 9.4,
+    "scene_count": 12,
+    "duration_s": 76.4,
+    "environment": "diverse B-Roll",
+    "visual_variety_score": 7
+  },
+  "audio": {
+    "voice_pace_wpm": 140,
+    "music_present": false,
+    "music_energy": "none",
+    "sound_effects": false,
+    "tone": "authoritative",
+    "language": "Deutsch"
+  },
+  "cta": {
+    "present": false,
+    "type": "none",
+    "placement": "none",
+    "explicit_text": null,
+    "implicit_pull": "Implizit: 'Ich zeige dir wie das wirklich funktioniert'",
+    "mechanism": "Keine explizite CTA — Vertrauensaufbau-Content"
+  },
+  "patterns": {
+    "unique_mechanisms": [
+      "System-Dekonstruktion: Guru-Modell von außen analysieren = Überlegenheit demonstrieren",
+      "Kognitive Dissonanz als Teaching-Tool: Erklären wie Psychologie für Konsum genutzt wird",
+      "Außenwahrnehmung als einziger Hebel — radikale Vereinfachung eines komplexen Systems"
+    ],
+    "memorable_phrases": [
+      "Coaching Aufwärtsspirale",
+      "kognitive Dissonanz",
+      "der einzige Hebel ist ihre Außenwahrnehmung"
+    ],
+    "content_angle": "Meta-Analyse: 'Ich zeige dir wie Gurus dich manipulieren' — positioniert Lukas als jemanden der über dem System steht",
+    "virality_triggers": [
+      "Systemkritik zieht Zustimmung ('ich wusste es')",
+      "Entlarvungseffekt schafft Verbündete",
+      "Intellektueller Content für Creator-Nische"
+    ]
+  }
+}

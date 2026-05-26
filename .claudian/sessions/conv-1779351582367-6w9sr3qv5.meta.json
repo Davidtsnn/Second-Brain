@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779351582367-6w9sr3qv5",
+  "providerId": "claude",
+  "title": "Begin daily session",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779351582368,
+  "updatedAt": 1779441289058,
+  "lastResponseAt": 1779352953607,
+  "sessionId": "ae1269b7-0da4-4024-aea1-003898712574",
+  "providerState": {
+    "providerSessionId": "ae1269b7-0da4-4024-aea1-003898712574"
+  },
+  "currentNote": "To Do.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2480,
+    "cacheReadInputTokens": 88985,
+    "contextWindow": 200000,
+    "contextTokens": 91466,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}

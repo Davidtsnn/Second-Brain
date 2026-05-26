@@ -1,0 +1,66 @@
+{
+  "video_id": "dMZ-n2KSlxE",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=dMZ-n2KSlxE",
+    "videodb_id": "m-z-019e3b62-86af-7c22-8b45-61ac510021aa",
+    "creator_handle": "AlexHormozi",
+    "platform": "youtube",
+    "format": "long_form_livestream",
+    "duration_s": 1508,
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "relative_performance": "viral",
+    "noted_claim": "32.7 Mio. YouTube-Views im selben Monat, 35.000 Content-Pieces/Jahr, $100M Buch-Launch in 72h"
+  },
+  "core_framework": {
+    "name": "SPCL",
+    "components": {
+      "S_Status": "Kontrolle über knappe Ressourcen im Umfeld. Wer das kontrolliert was andere wollen, hat Status. Operativ: Geld, Verbindungen, exklusiver Zugang.",
+      "P_Power": "Fähigkeit, zuverlässig vorhersagbare Ergebnisse zu liefern. Wenn du Dinge tust und gute Dinge passieren konsistent → Power.",
+      "C_Credibility": "Drittpartei-Validierung. Etwas Beobachtbares das schwer zu fälschen ist ($10M Gebäude im Hintergrund, Buch-Launch-Zahlen).",
+      "L_Likeness": "Psychologische Ähnlichkeit oder geteilte Werte. Menschen folgen Menschen die ihnen ähneln oder die sie sein möchten."
+    },
+    "formula": "Influence = SPCL × Volume. Nicht SPCL ODER Volume — beides ist nötig.",
+    "influence_definition": "Hohe Wahrscheinlichkeit dass jemand einer Aufforderung nachkommt (CTA, Kauf, Abonnement)"
+  },
+  "volume_strategy": {
+    "hormozi_benchmark": "35.000 Content-Pieces/Jahr = ~96/Tag (via Clip-Machine aus Long-Form)",
+    "linear_relationship": "100x mehr Content = 100x mehr Interessenten (linear, nicht exponentiell)",
+    "principle": "SPCL so oft wie möglich wiederholen. Volume ist kein 'nice to have' — es ist ein Multiplikator."
+  },
+  "platform_hierarchy": {
+    "shorts_purpose": "Discovery (Gatekeeping-Funktion): Kurzvideos bringen jemanden dazu lange Inhalte zu schauen",
+    "longs_purpose": "Influence (Trust-Building): Reinforcement-Zyklen pro Minute sind bei Long-Form um Faktor 120× höher",
+    "sequence": "Short-Form (TikTok/Reels/Shorts) → Long-Form (YouTube/Podcast) → Kauf/Conversion",
+    "influence_depth": "2h YouTube = ~480 Reinforcement-Zyklen vs. 2h Short-Form (á 15s) = ~480 Views aber viel weniger tiefe Bindung"
+  },
+  "content_targeting": {
+    "key_insight": "The content IS the targeting. Der Algorithmus kennt deinen Content besser als du — er liefert ihn automatisch an den richtigen Avatar.",
+    "social_vs_interest": "Social Content = breite Masse aber falsche Kunden. Interest Content = kleinere Masse aber ideale Kunden.",
+    "principle": "Mache Content FÜR deinen Avatar, nicht für den Algorithmus. Der Algorithmus löst das Distribution-Problem automatisch."
+  },
+  "patterns": {
+    "unique_mechanisms": [
+      "SPCL-Framework: Universelles Modell für Influence-Building das auf JEDEN Creator übertragbar ist",
+      "Volume × Quality: Kein Trade-off sondern Multiplikation",
+      "Shorts-to-Longs Funnel: Kurzcontent als Top-of-Funnel, Langcontent als Conversion-Layer",
+      "Content-is-Targeting: Avatar-spezifischer Content wird algorithmusgesteuert an den richtigen Zuschauer geliefert",
+      "Accurate Expectations: 100k Views für High-Value-B2B-Nische = 100M Views für Entertainment-Nische in Wirkung"
+    ],
+    "memorable_phrases": [
+      "The content is the targeting",
+      "Do SPCL as many times as I possibly can",
+      "Social vs. interesting — be interesting",
+      "Influence = high likelihood of compliance with requests",
+      "35,000 pieces of content this year"
+    ],
+    "content_angle": "Operationale Präzision: Definiere alles durch das was du siehst, nicht durch emotionale Begriffe",
+    "virality_triggers": [
+      "32.7M Views als Opener",
+      "$100M in 72h",
+      "SPCL als merkbares Akronym",
+      "Bartender-Analogie für Status"
+    ]
+  }
+}

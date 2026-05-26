@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779731835955-s7rc6987v",
+  "providerId": "claude",
+  "title": "Organize inbox and plan today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779731835955,
+  "updatedAt": 1779776943705,
+  "lastResponseAt": 1779733822279,
+  "sessionId": "27ebc434-f3c3-4d5d-a299-1daa207ead52",
+  "providerState": {
+    "providerSessionId": "27ebc434-f3c3-4d5d-a299-1daa207ead52"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1089,
+    "cacheReadInputTokens": 42745,
+    "contextWindow": 1000000,
+    "contextTokens": 43835,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

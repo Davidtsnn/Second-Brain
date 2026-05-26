@@ -16,8 +16,10 @@ Prüfungsleistung: Klausur am Ende des Semesters.
 
 ## Prüfung
 
-- [ ] Klausur (Datum noch offen)
+- [ ] Klausur (Datum noch offen) 🔥 Prüfung gilt als schwer, Lernstand aktuell fast 0
 
 ## Lernmaterial
 
 ## Notizen
+
+**25.05.** Lernstart dringend nötig. Stoff komplett offen, Klausur als schwer eingeschätzt. Erste Session: Überblick verschaffen, Materialien sichten, Lernplan grob aufsetzen.

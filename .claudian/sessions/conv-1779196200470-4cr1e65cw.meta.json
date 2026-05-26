@@ -4,8 +4,8 @@
   "title": "Confirm GitHub push routine",
   "titleGenerationStatus": "success",
   "createdAt": 1779196200470,
-  "updatedAt": 1779196684119,
-  "lastResponseAt": 1779196684119,
+  "updatedAt": 1779351572363,
+  "lastResponseAt": 1779196964191,
   "sessionId": "e721a180-9ecf-487e-943c-5c94252d0ed7",
   "providerState": {
     "providerSessionId": "e721a180-9ecf-487e-943c-5c94252d0ed7"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 1036,
-    "cacheReadInputTokens": 58946,
+    "cacheCreationInputTokens": 206,
+    "cacheReadInputTokens": 66211,
     "contextWindow": 200000,
-    "contextTokens": 59983,
-    "percentage": 30,
+    "contextTokens": 66418,
+    "percentage": 33,
     "contextWindowIsAuthoritative": true
   }
 }

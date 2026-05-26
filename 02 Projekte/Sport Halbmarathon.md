@@ -8,18 +8,18 @@ erstellt: 2026-05-13
 
 ## Ziele
 
-- **Kurzfristig:** Halbmarathon am **Sonntag, 17.05.2026** — bereits trainiert, schon einen HM gelaufen
+- **Kurzfristig:** ✅ Halbmarathon am **17.05.2026** absolviert
 - **Langfristig:** Marathon bis **Ende 2026**
 
 ## Aktueller Stand
 
 - Läuft **2–3x pro Woche**
 - Wochenkilometer: **10–25 km**
-- Erfahrung: 1 Halbmarathon bereits absolviert
+- Erfahrung: 2 Halbmarathons absolviert
 
 ## Nächste Schritte
 
-- [ ] 17.05.26 — Halbmarathon laufen
+- [x] 17.05.26 — Halbmarathon gelaufen ✅
 - [ ] Marathon-Termin für Ende 2026 suchen und anmelden
 - [ ] Trainingsplan für Marathon aufbauen (nach dem HM)
 

@@ -1,0 +1,133 @@
+{
+  "video_id": "DYSXc3pMOr7",
+  "source": {
+    "url": "https://www.instagram.com/p/DYSXc3pMOr7/",
+    "videodb_id": "m-z-019e3b4b-c777-79a3-9c99-393b37b49928",
+    "creator_handle": "lucas.kleinecke",
+    "platform": "instagram",
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "view_count": null,
+    "like_count": null,
+    "comment_count": null,
+    "save_count": null,
+    "relative_performance": "viral",
+    "noted_claim": "25 Millionen Impressionen plattformübergreifend (im Video selbst erwähnt)"
+  },
+  "hook": {
+    "end_timestamp_s": 1.3,
+    "spoken_text": "Ist doch einfach Egoismus.",
+    "visual_description": "Lukas direkt in die Kamera, Close-Up, weißer Pullover mit rotem Kragen und grafischen roten Lippen, Lavalier-Mikrofon sichtbar",
+    "text_overlay": null,
+    "hook_type": "pattern_interrupt",
+    "hook_strength_score": 9,
+    "scroll_stop_mechanism": "Ein-Satz-Urteil das klingt wie Kritik – erzeugt kognitive Dissonanz. Zuschauer muss verstehen: an wen oder was richtet sich 'Egoismus'?"
+  },
+  "story": {
+    "framework": "social_proof_tutorial",
+    "acts": [
+      {
+        "label": "hook",
+        "start_s": 0.0,
+        "end_s": 1.3,
+        "transcript_excerpt": "Ist doch einfach Egoismus.",
+        "emotional_tone": "provokativ, urteilend"
+      },
+      {
+        "label": "social_proof_bridge",
+        "start_s": 1.3,
+        "end_s": 7.7,
+        "transcript_excerpt": "Mit diesem Video haben wir für Videos über 25 Millionen Impressionen auf allen Plattformen erreicht und heute schauen wir uns die Strategie mal etwas genauer an.",
+        "emotional_tone": "authoritative, Neugier aufbauend"
+      },
+      {
+        "label": "core_thesis",
+        "start_s": 7.7,
+        "end_s": 14.2,
+        "transcript_excerpt": "Die einzige Sache, die bestimmt, ob wir mit einem Diskussionsformat viral gehen, ist es, einen möglichst großen Kontrast zu schaffen zwischen den zwei Parteien.",
+        "emotional_tone": "lehrend, präzise"
+      },
+      {
+        "label": "iteration_proof",
+        "start_s": 14.2,
+        "end_s": 26.8,
+        "transcript_excerpt": "Wir hatten am Anfang in der ideation das Konzept Unternehmer vs. Angestellter... weshalb wir iteriert haben zu Online Millionär vs. Linke Jugend.",
+        "emotional_tone": "transparent, prozessorientiert"
+      },
+      {
+        "label": "authority_reference",
+        "start_s": 26.8,
+        "end_s": 37.2,
+        "transcript_excerpt": "MrBeast zum Beispiel baut immer den grösstmöglichsten Kontrast in seinen Videos auf Activity vs. Dollar Activity.",
+        "emotional_tone": "validierend, beweisend"
+      },
+      {
+        "label": "cta",
+        "start_s": 37.2,
+        "end_s": 41.6,
+        "transcript_excerpt": "Und ich schicke die gesamte Anleitung, wie man eine Personenmarke aufbaut, wenn du viral kommentierst.",
+        "emotional_tone": "einladend, wertbasiert"
+      }
+    ],
+    "tension_timestamps": [0.0, 7.7, 27.5],
+    "pacing_style": "fast_cut"
+  },
+  "visual": {
+    "face_cam_percentage": 0.2,
+    "b_roll_types": [
+      "Collage eigener viraler Videos (Social Proof)",
+      "Debate/Discussion-Format Aufnahmen",
+      "Personenvergleich (links vs. rechts)",
+      "Radar-Chart Vergleichsgrafik",
+      "MrBeast Thumbnail Screenshot",
+      "DM/Nachricht Screenshot"
+    ],
+    "text_overlay_frequency": "high",
+    "cut_rate_per_minute": 36.1,
+    "scene_count": 25,
+    "duration_s": 41.6,
+    "environment": "Studio / Homeoffice (Stool, Screens im Hintergrund); überwiegend B-Roll aus anderen Videos",
+    "visual_variety_score": 9,
+    "notes": "Nur Szenen 1-2 und 22-25 zeigen Lukas direkt. Rest ist reines B-Roll-Storytelling. Sehr hohe Schnittfrequenz (~1 Schnitt/1.7s)."
+  },
+  "audio": {
+    "voice_pace_wpm": 148,
+    "music_present": false,
+    "music_energy": "none",
+    "sound_effects": false,
+    "tone": "authoritative",
+    "language": "Deutsch",
+    "notes": "Lavalier-Mikrofon, klares Audio, kein Musik-Underlay. Tempo: schnell aber artikuliert."
+  },
+  "cta": {
+    "present": true,
+    "type": "comment",
+    "placement": "end",
+    "explicit_text": "wenn du viral kommentierst",
+    "implicit_pull": "Lead-Magnet: kostenlose Anleitung 'wie man eine Personenmarke aufbaut'",
+    "mechanism": "Comment-Incentive. Kommentar erhöht algorithmische Reichweite UND generiert qualifizierte Leads."
+  },
+  "patterns": {
+    "unique_mechanisms": [
+      "Kontrast-Formel: Je spezifischer und polarer die Parteien, desto höher die Reibung → Virality",
+      "Meta-Content: Viral-Strategie als Content = Creator-Zielgruppe teilt es",
+      "Iterationserzählung: 3-stufige Verfeinerung zeigt Prozess-Transparenz (Vertrauen)",
+      "Comment-as-Lead-Funnel: Kommentar = Algorithmus-Boost + Lead-Generierung"
+    ],
+    "memorable_phrases": [
+      "Ist doch einfach Egoismus.",
+      "einen möglichst großen Kontrast schaffen",
+      "zu wenig Reibung aufgebaut",
+      "iteriert haben zu Online Millionär vs. Linke Jugend"
+    ],
+    "content_angle": "Hinter-den-Kulissen Virality-Strategie — 'Ich zeige dir wie wir das gebaut haben'",
+    "virality_triggers": [
+      "Massive Social Proof als zweiter Satz (25M Impressionen)",
+      "Pattern-Interrupt Hook ('Egoismus') erzeugt Neugier-Gap",
+      "MrBeast-Referenz = Weltklasse-Validierung",
+      "Lead-Magnet CTA incentiviert Kommentare = mehr Reichweite",
+      "Creator-Nische (Meta-Content) = hohe Weiterteile-Rate unter Mitbewerbern"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "video_id": "DYFOwJIM2sn",
+  "source": {
+    "url": "https://www.instagram.com/p/DYFOwJIM2sn/",
+    "videodb_id": "m-z-019e3b54-6b7e-7d61-8673-d7f4ecec41e1",
+    "creator_handle": "lucas.kleinecke",
+    "platform": "instagram",
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "view_count": null,
+    "like_count": null,
+    "comment_count": null,
+    "save_count": null,
+    "relative_performance": "high"
+  },
+  "hook": {
+    "end_timestamp_s": 2.5,
+    "spoken_text": "Ich war letztens in einem Call mit Alex Formosi",
+    "visual_description": "Lukas face cam, vermutlich Close-Up",
+    "text_overlay": null,
+    "hook_type": "authority_borrowing",
+    "hook_strength_score": 10,
+    "scroll_stop_mechanism": "Name-Drop einer globalen Top-1%-Autorität (Alex Hormozi). Sofort maximale Glaubwürdigkeit durch Assoziation — auch wenn der Call fiktiv ist."
+  },
+  "story": {
+    "framework": "meta_reveal",
+    "acts": [
+      {
+        "label": "fake_authority_hook",
+        "start_s": 0.0,
+        "end_s": 7.0,
+        "transcript_excerpt": "Ich war letztens in einem Call mit Alex Formosi und ich habe eine unfassbar wichtige Sache gelernt...",
+        "emotional_tone": "neugierig, autoritativ"
+      },
+      {
+        "label": "core_teaching",
+        "start_s": 7.0,
+        "end_s": 25.0,
+        "transcript_excerpt": "Warum sollte man dir zuhören... deswegen musst du dir diesen Grund schaffen. Rede nicht über dich, sondern gib den Leuten Mehrwert und klau dir Autorität.",
+        "emotional_tone": "lehrend, direkt"
+      },
+      {
+        "label": "reveal_twist",
+        "start_s": 25.0,
+        "end_s": 33.0,
+        "transcript_excerpt": "Ich war gar nicht mit Alex in einem Call, aber genau das hat mir Autorität gegeben.",
+        "emotional_tone": "überraschend, selbst-referentiell"
+      },
+      {
+        "label": "cta",
+        "start_s": 33.0,
+        "end_s": 40.0,
+        "transcript_excerpt": "Kommentiere viral und schick dir alles zu, was es braucht, um deine Personenmarke aufzubauen.",
+        "emotional_tone": "einladend"
+      }
+    ],
+    "tension_timestamps": [
+      0.0,
+      25.0
+    ],
+    "pacing_style": "variable"
+  },
+  "visual": {
+    "face_cam_percentage": 0.5,
+    "b_roll_types": [
+      "split-screen Demos",
+      "Text-Overlays"
+    ],
+    "text_overlay_frequency": "medium",
+    "cut_rate_per_minute": 42.0,
+    "scene_count": 28,
+    "duration_s": 40.0,
+    "environment": "Studio / Homeoffice",
+    "visual_variety_score": 7
+  },
+  "audio": {
+    "voice_pace_wpm": 155,
+    "music_present": false,
+    "music_energy": "none",
+    "sound_effects": false,
+    "tone": "conversational",
+    "language": "Deutsch"
+  },
+  "cta": {
+    "present": true,
+    "type": "comment",
+    "placement": "end",
+    "explicit_text": "Kommentiere viral",
+    "implicit_pull": "Kostenlose School-Community + Personenmarken-Anleitung",
+    "mechanism": "Comment-Incentive (Lead-Magnet)"
+  },
+  "patterns": {
+    "unique_mechanisms": [
+      "Self-Demonstrating Hook: Der Hook demonstriert die Lektion in Echtzeit (Authority Borrowing durch den Hormozi-Name-Drop)",
+      "Reveal-Twist: Video gibt die Lektion erst preis, dann enthüllt es dass der Hook selbst die Lektion war",
+      "Lehrformel: Rede nicht über dich — gib Mehrwert, klau Autorität"
+    ],
+    "memorable_phrases": [
+      "klau dir Autorität",
+      "Warum sollte man dir zuhören",
+      "Ich war gar nicht mit Alex in einem Call"
+    ],
+    "content_angle": "Hormozi-Autorität als Lektion und Hook gleichzeitig — radikale Transparenz über eigene Manipulation",
+    "virality_triggers": [
+      "Hormozi Name-Drop",
+      "Reveal-Twist erzeugt 'WTF'-Moment",
+      "Meta-Ebene (Lehre = Demo)",
+      "Comment-as-Lead-Funnel"
+    ]
+  }
+}

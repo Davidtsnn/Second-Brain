@@ -1,0 +1,36 @@
+{
+  "source_id": "truefuturemedia_strategy_guide",
+  "type": "article_framework",
+  "url": "https://www.truefuturemedia.com/articles/instagram-tiktok-content-strategy-testing-guide",
+  "title": "Instagram & TikTok Content Strategy Testing Guide",
+  "collected_at": "2026-05-18",
+  "key_data": {
+    "tiktok_engagement_rate": "3.70% (↑49% YoY)",
+    "instagram_engagement_rate": "0.48%",
+    "engagement_multiplier": "TikTok 7.7× höhere Engagement-Rate als Instagram",
+    "tiktok_shares_yoy": "↑45% — Shares sind die primäre Erfolgsmetrik",
+    "hook_stat": "Storytelling-Hooks in den ersten 3 Sekunden = 72% höhere Viral-Wahrscheinlichkeit",
+    "cross_platform_penalty": "Cross-Platform Content (identisch) performt 32% schlechter auf Instagram",
+    "instagram_non_follower_reach": "55% der Reels-Reichweite kommt von Non-Followern",
+    "reels_avg_reach_rate": "30.81% durchschnittliche Reach-Rate",
+    "instagram_originality_score_2026": "Instagram bestraft watermarked / recycelte Clips mit niedrigerem Originality-Score",
+    "instagram_daily_reels_views": "140 Milliarden täglich",
+    "tiktok_monthly_users": "1.9 Milliarden, 24+ Stunden/Monat",
+    "reels_with_people": "25% mehr Klicks als Reels ohne Personen"
+  },
+  "platform_algorithm_differences": {
+    "instagram": "Watch Time + DM-Shares + Likes/Reach",
+    "tiktok": "Completion Rate + Replays"
+  },
+  "weekly_posting_formula": {
+    "instagram": "3-4 Reels (30-90s) + 2-3 Karussells + 1-2 statische Posts",
+    "tiktok": "3-5 Posts (15-60s, 1-3 Min wächst)"
+  },
+  "4_step_testing_framework": [
+    "1. Single-Variable-Testing: immer nur EINE Variable pro Test (Hook / Format / Länge / Thema)",
+    "2. Execution: beide Varianten innerhalb derselben Woche posten, 48-72h warten",
+    "3. Organic-First: organisch validieren BEVOR Paid Amplification ($10-20/Tag, 7 Tage)",
+    "4. Systemic: repeatable Playbooks aus Daten-Mustern bauen"
+  ],
+  "core_insight": "Shares > Likes als Erfolgsmetrik. Originality Score 2026 bestraft Duplikate. TikTok-Algorithmus: Completion Rate. Instagram-Algorithmus: DM-Shares."
+}

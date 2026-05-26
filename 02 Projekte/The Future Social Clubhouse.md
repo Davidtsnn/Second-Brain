@@ -9,9 +9,9 @@ datum: 2026-06-26
 
 ## Nächste Schritte
 
-- [ ] Kurzes Themen-Konzept ausarbeiten (20.-21.05.) ⚠️ dringend
-- [ ] Titelvorschläge brainstormen, fix bis Mitte/Ende nächster Woche (~28.05.)
-- [ ] One Pager für Speaker-Anfrage ausformulieren
+- [x] Kurzes Themen-Konzept ausarbeiten (20.-21.05.) ⚠️ dringend
+- [x] Titelvorschläge brainstormen, fix bis Mitte/Ende nächster Woche (~28.05.)
+- [x] One Pager für Speaker-Anfrage ausformulieren
 - [ ] Creator anfragen (Thomas Knüwer zuerst, Kontakt vorhanden)
 - [ ] Marvin wegen Panel-Moderation fragen
 
@@ -39,20 +39,46 @@ datum: 2026-06-26
 | Marvin wegen Moderation fragen | SWR-Whitepaper-Speaker anfragen |
 | | Budget Moderation abklären |
 
-## Konzept und Titel
+## Themenkonzept
 
-**Kernthese:** „Ohne Plattform keine Existenz." Meta dominiert, Creator, Agenturen und Marken sind komplett abhängig von Plattformen die sie nicht kontrollieren. Es gibt keine echte Alternative. Digitale Souveränität als Antwort?
+> [!info] Entwurf v1 (22.05.2026). Arbeitsgrundlage für One Pager und Speaker-Anfragen.
 
-**Dramaturgie (3 Vorträge):**
-1. Opener: SWR/BR-Fediverse-Whitepaper (Leo, Merve Kayikci)
-2. Creator-Perspektive: Abhängigkeit und Authentizität (David, Creator anfragen)
-3. Agentur-Perspektive: Werbung auf schnelllebigen Plattformen (Leo, Agentur anfragen)
+### Worum es geht
 
-**Titel-Ideen:**
-- Ohne Plattform keine Existenz: Wie abhängig sind wir von Big Tech?
-- Wem gehört unsere Reichweite?
-- Gefangen im Feed
-- Souverän trotz Big Tech
+Wenige Plattformen kontrollieren den Zugang zu digitaler Reichweite. Agenturen und Selbstständige bauen ihr Geschäft und das ihrer Kunden auf Kanälen, deren Spielregeln sie nicht bestimmen. Das Event ordnet dieses Plattformrisiko nüchtern ein und zeigt anhand konkreter Praxis, wie erfahrene Creator und Agenturen es streuen.
+
+### Ausgangslage
+
+- Meta, Google/YouTube, TikTok und LinkedIn bündeln faktisch den Großteil organischer und bezahlter Reichweite.
+- Ein einzelner Plattform-Shift, sei es Algorithmus, Drosselung, Sperre oder Preis, kann ein Geschäftsmodell über Nacht treffen.
+- Parallel entstehen dezentrale Alternativen wie das Fediverse, deren Relevanz aber offen ist.
+
+### Kernthese
+
+Reichweite ist ein Portfolio. Wer alles auf eine Plattform setzt, trägt ein Risiko, bewusst oder unbewusst. Plattformunabhängigkeit ist keine Ideologie, sondern Risikomanagement.
+
+### Leitfrage
+
+Wie abhängig sind wir von einzelnen Plattformen und wie lässt sich dieses Risiko streuen, ohne Reichweite zu verlieren?
+
+### Zielgruppe
+
+Agenturen, Freelancer und Selbstständige aus Marketing, Social Media, Content und Kommunikation in der Region Stuttgart. Profis, die das Plattformrisiko für Kunden oder sich selbst operativ tragen. Kein Grundlagen-Event, sondern Einordnung und Praxis für Leute, die im Thema stecken.
+
+
+### Tonalität
+
+Sachlich-analytisch. Daten und Erfahrungen statt Meinung und Pathos, kein „Big Tech ist böse". Plattformrisiko wird wie ein Strategie- und Finanzthema behandelt: nüchtern, professionell, mit konkretem Nutzen für die tägliche Arbeit. Verbindendes Bild über Titel, Vortragstitel und Moderation: „Reichweite ist ein Portfolio."
+
+### Titel-Ideen
+
+Titel-Findung bis circa 28.05. Richtung: Mischung aus „Wenn Big Tech …" und dem Existenz-Gedanken.
+
+1. Wenn Big Tech die Regeln macht: Ohne Plattform keine Existenz
+2. Wenn Big Tech den Stecker zieht: Über das Leben auf fremden Plattformen
+3. Wenn Big Tech den Algorithmus dreht: Wie abhängig ist unsere Existenz?
+4. Wenn Big Tech entscheidet, wer existiert
+5. Ohne Plattform keine Existenz: Was, wenn Big Tech den Stecker zieht?
 
 ## Speaker
 
@@ -70,3 +96,15 @@ datum: 2026-06-26
 - Panel-Moderation: Marvin konkret anfragen, sonst HDM
 - Sponsoring: dürfen wir werben? (Förderbubble ok, Rest mit Leo klären)
 - Online-Liveschalte für Speaker erlaubt?
+
+## Call mit Marvin (TFS)
+
+**Namen aus dem Call:**
+- Chris Müller
+- Marvin Endres
+- [Awid Safaei (Instagram)](https://www.instagram.com/awid.safaei/)
+- Jonas Moll
+
+**Offen:**
+- Marvin muss sich Gedanken machen → wer soll eingeladen werden?
+- Idee: Live Podcast mit jemandem aus den „Köpfen der Szene"

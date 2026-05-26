@@ -38,7 +38,8 @@ Reales Beratungsprojekt mit der Firma **LearnBattle** im 4er-Team. Thema: Social
 
 ## Nächste Schritte
 
-- [ ] Abschlusspräsentation vorbereiten
+- [ ] **Tracking Slides fertigstellen** (David — meine einzige Aufgabe für die kommende Abgabe)
+- [ ] Abschlusspräsentation vorbereiten (03.07.)
 - [ ] Wöchentliche Reflexionen aktuell halten
 
 ## Report-Kontext (für nächste Berichte)
@@ -73,5 +74,64 @@ Reales Beratungsprojekt mit der Firma **LearnBattle** im 4er-Team. Thema: Social
 4. Gab es weitere Calls mit Learn Battle? Was wurde besprochen?
 5. Welche neuen Probleme oder Hindernisse sind aufgetaucht?
 6. Was sind deine persönlichen Ziele für die nächsten 2 Wochen?
+
+## Call 21.05.26 — Aufgabenverteilung & offene ToDos
+
+### Deadlines
+- **Sonntag** — internes Deadline (alle Teile fertig)
+- **Montag Abend** — finales Abgabe-Deadline
+- **29.** — Abschlusspräsentation
+
+### Aufgabenverteilung
+
+| Person      | Aufgabe                                  |
+| ----------- | ---------------------------------------- |
+| David       | Tracking (Slides dafür bereits erstellt) |
+| Marvin      | Content Formate                          |
+| Sara & Pati | Landing Page                             |
+|             |                                          |
+
+### Noch zu erledigen
+
+- [ ] Abschlusszusammenfassung: was kostet was + wie viel Zeitaufwand
+- [ ] Paper erstellen: Gesamtzusammenfassung was gemacht wurde
+- [ ] Benny's Status klären, ggf. Unterstützung anbieten
+
+## Abschlusspräsentation — Tracking Slides (3 Folien)
+
+**Sprechzeit gesamt: max 5 Min**
+
+### Folie 1 — Tracking Konzept Organisch (Hauptfolie, ~3 Min)
+
+Bestehende Folie erweitern. Zwei Blöcke nebeneinander:
+
+**Block A: Eigene Links pro Kanal (UTM)**
+- YouTube, TikTok, Instagram
+- Tools: Google Analytics 4, Linktree
+
+**Block B: ManyChat (neu)**
+- Trigger: Kommentar mit Keyword auf Reel/Post → automatische DM mit Link
+- Funnel-Tracking pro Kampagne: Trigger-Anzahl, DM-Öffnungsrate, Link-Klicks, Sign-Ups
+- Vorteil ggü. reinem Bio-Link: Attribution sauber pro Post, nicht nur pro Profil
+
+**Ziel-Wording:** 80% der organischen Nutzerquellen nachvollziehbar machen
+
+### Folie 2 — Tracking Konzept Performance (~1,5 Min)
+
+Bestehende Folie leicht gekürzt halten, als kompakter Backup-Block.
+- Conversion Events (Sign-Up, App Install, Newsletter, In-App, Verweildauer)
+- KPIs (CPA, CPL, CPC, CPM, Conversion-Rate pro Creative, Vergleich Creatives/Targetings)
+- Tools (Meta Pixel + Conversions API, TikTok Pixel + Events API, YouTube/Google Ads via GA4, GTM)
+
+### Folie 3 — So messen wir Erfolg (KPI-Übersicht, ~30 Sek)
+
+Die 4-5 wichtigsten KPIs gebündelt:
+- Klicks pro Plattform (organisch)
+- Comment-to-Sign-Up Rate (ManyChat)
+- Conversion-Rate Klick → Registrierung
+- CPA / CPL (Performance)
+- Sign-Ups gesamt
+
+**Übergangs-Satz:** „Damit haben wir organisch wie paid eine einheitliche Sicht auf den Funnel."
 
 ## Notizen

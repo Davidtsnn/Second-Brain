@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779734576128-qdhq4fu9w",
+  "providerId": "claude",
+  "title": "Coordinate homepage launch",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779734576129,
+  "updatedAt": 1779776933295,
+  "lastResponseAt": 1779776933295,
+  "sessionId": "0558a196-8b3c-4a72-af78-811189ac1666",
+  "providerState": {
+    "providerSessionId": "0558a196-8b3c-4a72-af78-811189ac1666"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 6,
+    "cacheCreationInputTokens": 391,
+    "cacheReadInputTokens": 45652,
+    "contextWindow": 1000000,
+    "contextTokens": 46049,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

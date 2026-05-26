@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779347484482-2thcjjmwg",
+  "providerId": "claude",
+  "title": "Summarize consulting call roles and deadlines",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779347484488,
+  "updatedAt": 1779351571366,
+  "lastResponseAt": 1779347633148,
+  "sessionId": "691aee23-26d8-4a2e-9bba-7f7d9ba34675",
+  "providerState": {
+    "providerSessionId": "691aee23-26d8-4a2e-9bba-7f7d9ba34675"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 454,
+    "cacheReadInputTokens": 19164,
+    "contextWindow": 200000,
+    "contextTokens": 19619,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

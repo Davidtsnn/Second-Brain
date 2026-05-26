@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779441290840-oa0uly2hq",
+  "providerId": "claude",
+  "title": "Develop TFS topic concept",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779441290841,
+  "updatedAt": 1779731801946,
+  "lastResponseAt": 1779442948881,
+  "sessionId": "d1509b86-3fe5-42c6-bcea-318dc2ad6c9e",
+  "providerState": {
+    "providerSessionId": "d1509b86-3fe5-42c6-bcea-318dc2ad6c9e"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 698,
+    "cacheReadInputTokens": 66271,
+    "contextWindow": 200000,
+    "contextTokens": 66972,
+    "percentage": 33,
+    "contextWindowIsAuthoritative": false
+  }
+}

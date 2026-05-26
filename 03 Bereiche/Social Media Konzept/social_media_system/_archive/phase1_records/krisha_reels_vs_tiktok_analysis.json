@@ -1,0 +1,25 @@
+{
+  "source_id": "krisha_reels_vs_tiktok",
+  "type": "article_experiment",
+  "url": "https://www.linkedin.com/pulse/i-ran-same-content-reels-tiktok-90-days-one-platform-krisha-kbqff/",
+  "title": "I Ran the Same Content on Reels & TikTok for 90 Days",
+  "collected_at": "2026-05-18",
+  "key_data": {
+    "tiktok_vs_reels_identical_content": "TikTok 2-4x mehr Views als Instagram bei gleichem Content",
+    "platform_specific_vs_identical": "Plattform-spezifischer Content 2-3x besser als Cross-Post auf BEIDEN Plattformen",
+    "example_villa_tour": "Identischer Post: TikTok 11.8K Views vs. Instagram 3.2K Views",
+    "tiktok_optimal_length": "60-90 Sekunden",
+    "instagram_optimal_length": "20-30 Sekunden",
+    "tiktok_style": "Raw, unpolished, Follow-Along-Narrativ",
+    "instagram_style": "Poliert, Aesthetic-first, Trending Audio, Save-CTAs",
+    "tiktok_purpose": "Discovery / Awareness / neue Audiences",
+    "instagram_purpose": "Qualifiziertes Engagement / Saves / Anfragen / Link-Traffic",
+    "tiktok_live_vs_instagram_live": "Instagram Live erreicht 1/10 der Audience von TikTok Live"
+  },
+  "testing_framework": {
+    "week_1_2": "Identischen Content posten → messen welche Metriken wichtig sind",
+    "week_3_4": "Plattform-spezifische Versionen erstellen",
+    "week_5_6": "Auf Plattform-spezifischen Ansatz verdoppeln"
+  },
+  "core_insight": "Content spezifisch für jede Plattform erstellen funktioniert deutlich besser als überall dasselbe posten."
+}

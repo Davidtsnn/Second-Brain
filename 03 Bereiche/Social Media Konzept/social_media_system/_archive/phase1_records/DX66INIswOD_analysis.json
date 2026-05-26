@@ -1,0 +1,140 @@
+{
+  "video_id": "DX66INIswOD",
+  "source": {
+    "url": "https://www.instagram.com/p/DX66INIswOD/",
+    "videodb_id": "m-z-019e3b55-1743-7570-a7cb-e4c457d3c1c8",
+    "creator_handle": "lucas.kleinecke",
+    "platform": "instagram",
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "view_count": null,
+    "like_count": null,
+    "comment_count": null,
+    "save_count": null,
+    "relative_performance": "viral",
+    "noted_claim": "Christian Wolf reagiert, 10M+ Aufrufe erwähnt"
+  },
+  "hook": {
+    "end_timestamp_s": 4.0,
+    "spoken_text": "Das ganze Internet diskutiert wegen diesem Video, aber du nutzt dein Geld nicht richtig.",
+    "visual_description": "Vermutlich Split-Screen oder B-Roll des viralen Videos",
+    "text_overlay": null,
+    "hook_type": "social_proof_plus_provocation",
+    "hook_strength_score": 9,
+    "scroll_stop_mechanism": "Doppel-Hook: (1) 'Das ganze Internet' = Social Proof/FOMO, (2) 'du nutzt dein Geld nicht richtig' = direkte Provokation/Schuldgefühl."
+  },
+  "story": {
+    "framework": "step_by_step_blueprint",
+    "acts": [
+      {
+        "label": "viral_proof_hook",
+        "start_s": 0.0,
+        "end_s": 8.0,
+        "transcript_excerpt": "Das ganze Internet diskutiert wegen diesem Video... Christian Wolf reagiert sogar darauf und ich bin daran schuld.",
+        "emotional_tone": "aufregend, zuschreibend"
+      },
+      {
+        "label": "step1_polarize",
+        "start_s": 8.0,
+        "end_s": 18.0,
+        "transcript_excerpt": "Wenn du viral gehen willst, musst du spalten. Finde ein Thema, was polarisiert.",
+        "emotional_tone": "lehrend, präzise"
+      },
+      {
+        "label": "step2_format",
+        "start_s": 18.0,
+        "end_s": 28.0,
+        "transcript_excerpt": "Gib deinem Thema ein Format... Live Diskussionen wäre genau das Richtige.",
+        "emotional_tone": "strategisch"
+      },
+      {
+        "label": "step3_perception",
+        "start_s": 28.0,
+        "end_s": 36.0,
+        "transcript_excerpt": "Definiere deine Außenwahrnehmung. Das ist womit man dich und somit dein Produkt assoziiert.",
+        "emotional_tone": "strategisch"
+      },
+      {
+        "label": "step4_distribution",
+        "start_s": 36.0,
+        "end_s": 52.0,
+        "transcript_excerpt": "10-50 Clips... 5 Videos mit jeweils 3 verschiedenen Hooks. Alle Videos führen auf das YouTube Video.",
+        "emotional_tone": "taktisch, konkret"
+      },
+      {
+        "label": "result_proof",
+        "start_s": 52.0,
+        "end_s": 57.0,
+        "transcript_excerpt": "Über 10 Millionen Aufrufe. Christian Wolf reagiert — eine positive Außenwahrnehmung.",
+        "emotional_tone": "triumphierend"
+      },
+      {
+        "label": "cta",
+        "start_s": 57.0,
+        "end_s": 60.1,
+        "transcript_excerpt": "ich schicke die gesamte Anleitung, wenn du viral kommentierst.",
+        "emotional_tone": "einladend"
+      }
+    ],
+    "tension_timestamps": [
+      0.0,
+      8.0,
+      52.0
+    ],
+    "pacing_style": "fast_cut"
+  },
+  "visual": {
+    "face_cam_percentage": 0.15,
+    "b_roll_types": [
+      "Virales Video-Footage",
+      "Reaktions-Clips (Christian Wolf)",
+      "Screen-Recordings",
+      "Text-Step-Overlays",
+      "Kommentar-Screenshots"
+    ],
+    "text_overlay_frequency": "high",
+    "cut_rate_per_minute": 38.9,
+    "scene_count": 39,
+    "duration_s": 60.1,
+    "environment": "Studio + extensives B-Roll",
+    "visual_variety_score": 10
+  },
+  "audio": {
+    "voice_pace_wpm": 160,
+    "music_present": false,
+    "music_energy": "none",
+    "sound_effects": false,
+    "tone": "energetic",
+    "language": "Deutsch"
+  },
+  "cta": {
+    "present": true,
+    "type": "comment",
+    "placement": "end",
+    "explicit_text": "viral kommentierst",
+    "implicit_pull": "Kostenlose Personenmarken-Anleitung",
+    "mechanism": "Comment-Incentive (Lead-Magnet)"
+  },
+  "patterns": {
+    "unique_mechanisms": [
+      "Virality-Beweis im Hook: 'Ich bin daran schuld' — Ownership über fremde Reaktion als Autorität",
+      "4-Schritt Blueprint: Spalten → Format → Außenwahrnehmung → Distribution",
+      "Distribution-System: TikTok/Shorts als A/B-Test-Labor → YouTube als Konversionskanal",
+      "Clips-Strategie: 10-50 Clips, 5 Posts × 3 Hooks = systematisches Testing"
+    ],
+    "memorable_phrases": [
+      "wenn du viral gehen willst, musst du spalten",
+      "5 Videos mit jeweils 3 verschiedenen Hooks",
+      "Alle Videos führen auf das YouTube Video",
+      "Ich bin daran schuld"
+    ],
+    "content_angle": "Blueprints statt Inspiration — konkretes 4-Schritt-System mit bewiesenen Zahlen",
+    "virality_triggers": [
+      "FOMO-Hook ('Das ganze Internet')",
+      "Beweis durch fremde Reaktion (Christian Wolf)",
+      "Konkrete Zahlen (10M Aufrufe)",
+      "Actionable Blueprint = hohe Share-Rate"
+    ]
+  }
+}

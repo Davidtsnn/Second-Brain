@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779537458107-twuh9vb2u",
+  "providerId": "claude",
+  "title": "Create daily notes for past days",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779537458108,
+  "updatedAt": 1779692363664,
+  "lastResponseAt": 1779537508791,
+  "sessionId": "0ea62b95-e0b4-440c-82ee-bd51bab43ee8",
+  "providerState": {
+    "providerSessionId": "0ea62b95-e0b4-440c-82ee-bd51bab43ee8"
+  },
+  "currentNote": "01 Inbox/Brain Dump.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 888,
+    "cacheReadInputTokens": 21558,
+    "contextWindow": 200000,
+    "contextTokens": 22447,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

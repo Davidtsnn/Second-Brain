@@ -1,0 +1,88 @@
+{
+  "creator": "lucas.kleinecke",
+  "corpus_size": 4,
+  "analysis_date": "2026-05-18",
+  "top_success_factors": [
+    {
+      "rank": 1,
+      "name": "Comment-Lead-Funnel CTA",
+      "confidence": 0.92,
+      "frequency": "75% direkt, 100% implizit",
+      "formula": "CTA = 'Kommentiere [Keyword]' → Lead-Magnet via DM",
+      "why_it_works": "Kommentare sind das stärkste Algorithmus-Signal. Gleichzeitig generiert jeder Kommentar einen qualifizierten Lead. Double-ROI pro CTA.",
+      "universal_template": "Kommentiere [Keyword] und ich schicke dir [kostenlose Ressource]"
+    },
+    {
+      "rank": 2,
+      "name": "Third-Party Authority Hook",
+      "confidence": 0.88,
+      "frequency": "75% (3/4)",
+      "formula": "Hook = Autorität borgen, nicht selbst behaupten",
+      "why_it_works": "Niemand hört einem Unbekannten zu. Eine bekannte Zahl, ein bekannter Name, oder eine bekannte Reaktion überträgt sofort Credibility.",
+      "universal_template": "[X Millionen sahen das] / [Ich war mit [Autorität]] / [Ich bin daran schuld dass [großes Event]]"
+    },
+    {
+      "rank": 3,
+      "name": "Meta-Content Loop",
+      "confidence": 0.85,
+      "frequency": "75% (3/4)",
+      "formula": "Zeige die Mechanik hinter dem Content den du gerade machst",
+      "why_it_works": "Creator-Nische = größte Multiplikatoren. Wer selbst Content macht teilt Strategie-Content automatisch. Selbst-referentieller Content = eingebetteter Verbreitungs-Anreiz.",
+      "universal_template": "Zeige [eigene Strategie] / Entlarve [fremdes System] / Demonstriere [Trick] in Echtzeit"
+    },
+    {
+      "rank": 4,
+      "name": "Kontrast-Polarisierungs-Formel",
+      "confidence": 0.78,
+      "frequency": "50% direkt, 100% inhaltlich",
+      "formula": "Finde das Maximum der Polarisierung: Polar A vs. Polar B, so konkret wie möglich",
+      "why_it_works": "Kontrast = Kommentare. Kommentare = Reichweite. Je spezifischer die Parteien, desto stärker die emotionale Reaktion. Unternehmer vs. Angestellter < Millionär vs. Linke < Online-Millionär vs. Linke Jugend",
+      "universal_template": "[Spezifische Gruppe A] vs. [Spezifische antagonistische Gruppe B]: je polarer desto besser"
+    },
+    {
+      "rank": 5,
+      "name": "Visual-Proof Storytelling (Fast-Cut B-Roll First)",
+      "confidence": 0.75,
+      "frequency": "75% (3/4)",
+      "formula": "B-Roll zeigt das Resultat zuerst — Face-Cam nur für Hook und CTA",
+      "why_it_works": "Beweise überzeugen. Screenshots, Reaktionsvideos, externe Content = visueller Beweis der Aussagen. Face-Cam-Sparsamkeit erhöht perceived value der Momente wo man sichtbar ist.",
+      "universal_template": "Sekunden 0-5: B-Roll Beweis. Sekunde 5+: Erklärung. Letzter Teil: Face-Cam für CTA."
+    }
+  ],
+  "voice_signature": {
+    "dominant_tone": "authoritative + transparent",
+    "avg_wpm": 151,
+    "language": "Deutsch",
+    "signature_phrases": [
+      "wenn du viral kommentierst",
+      "klau dir Autorität",
+      "die einzige Sache die bestimmt",
+      "Außenwahrnehmung"
+    ],
+    "content_angle_cluster": "Meta-Creator: zeigt die Mechanik hinter Virality — positioniert sich als informierter Insider"
+  },
+  "anti_patterns": [
+    {
+      "pattern": "Über sich selbst reden ohne Beweis",
+      "reason": "Kein einziges Video beginnt mit 'Ich bin gut weil...'"
+    },
+    {
+      "pattern": "CTA ohne Lead-Magnet",
+      "reason": "Jede CTA hat einen konkreten Mehrwert (kostenlose Anleitung, Community)"
+    },
+    {
+      "pattern": "Inspirations-Content ohne Mechanik",
+      "reason": "Immer: konkrete Formel, Schritte oder Zahlen — kein 'glaub an dich'"
+    },
+    {
+      "pattern": "Lange Intros ohne Hook-Payoff",
+      "reason": "Alle Hooks zahlen sich innerhalb von 30s aus"
+    }
+  ],
+  "transferable_frameworks": [
+    "Comment-Lead-Funnel (auf jede Nische übertragbar)",
+    "Kontrast-Formel (jede Nische hat polarisierende Themen)",
+    "Meta-Content Loop (jede Nische hat Mechaniken die man entlarven kann)",
+    "B-Roll-First Visual Proof (überall wo man externe Beweise hat)"
+  ]
+}

@@ -47,6 +47,8 @@ Beide: Gesellschafter + Geschäftsführer, einzelvertretungsberechtigt, § 181 B
 
 ## Status & To Dos
 
+- [ ] **Bilanz-Entwürfe von Steuerberatung durchlesen und ggf. korrigieren** (diese Woche, wichtig)
+- [ ] Bilanz an Assistentin von Frömel weiterleiten (nach Review)
 - [ ] Unterlagen beim Notar eingereicht
 - [ ] Handelsregistereintragung
 - [ ] Geschäftskonto eröffnen

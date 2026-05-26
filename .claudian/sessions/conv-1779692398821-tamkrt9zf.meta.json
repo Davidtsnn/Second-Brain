@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779692398821-tamkrt9zf",
+  "providerId": "claude",
+  "title": "Generate complete daily debrief",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779692398822,
+  "updatedAt": 1779731788262,
+  "lastResponseAt": 1779700221634,
+  "sessionId": "5ad35e3c-5863-48f2-9925-7dad402cbf28",
+  "providerState": {
+    "providerSessionId": "5ad35e3c-5863-48f2-9925-7dad402cbf28"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 125688,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 125691,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

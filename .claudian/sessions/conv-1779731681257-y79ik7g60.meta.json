@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779731681257-y79ik7g60",
+  "providerId": "claude",
+  "title": "Capture brain dump",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779731681258,
+  "updatedAt": 1779731786549,
+  "lastResponseAt": 1779731744798,
+  "sessionId": "d2c01f8c-b0f2-4566-a216-d9c98d094d74",
+  "providerState": {
+    "providerSessionId": "d2c01f8c-b0f2-4566-a216-d9c98d094d74"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 413,
+    "cacheReadInputTokens": 16859,
+    "contextWindow": 200000,
+    "contextTokens": 17273,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

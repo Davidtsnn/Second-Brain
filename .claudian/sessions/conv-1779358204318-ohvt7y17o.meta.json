@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779358204318-ohvt7y17o",
+  "providerId": "claude",
+  "title": "Create Hermes skooling concept presentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779358204327,
+  "updatedAt": 1779438775516,
+  "lastResponseAt": 1779361960354,
+  "sessionId": "59ab20f7-a2d2-4a74-b26b-4686999675fa",
+  "providerState": {
+    "providerSessionId": "59ab20f7-a2d2-4a74-b26b-4686999675fa"
+  },
+  "currentNote": "03 Bereiche/Uni/Hermes Projekt.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 698,
+    "cacheReadInputTokens": 92926,
+    "contextWindow": 1000000,
+    "contextTokens": 93626,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,6 +1,6 @@
 ---
 tags: [projekt]
-status: aktiv
+status: pausiert
 erstellt: 2026-05-13
 ---
 
@@ -12,10 +12,10 @@ Worship Abend bei mir zu Hause organisieren und durchführen.
 
 ## Status
 
-In Planung
+Pausiert. Liegt auf Eis bis es wieder konkret wird.
 
 ## Nächste Schritte
 
-- [ ] 
+Noch keine. Projekt ist pausiert.
 
 ## Notizen

@@ -1,0 +1,62 @@
+{
+  "video_id": "ImzoNTrgvFg",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=ImzoNTrgvFg",
+    "videodb_id": "m-z-019e3b71-e183-7931-8e61-e5f60fe98681",
+    "creator_handle": "Kallaway",
+    "platform": "youtube",
+    "format": "long_form_educational",
+    "duration_s": 1454,
+    "collected_at": "2026-05-18"
+  },
+  "engagement_metadata": {
+    "relative_performance": "high"
+  },
+  "core_framework": {
+    "name": "3-Era Model + Social Commerce 3.0",
+    "eras": {
+      "1_social_era": "2005-2020: Menschen folgen Menschen. Wenig Creator-Monetisierung.",
+      "2_for_you_era": "2020-2025: TikTok-ification. Algorithmus zeigt Fremde. Reichweite explodiert.",
+      "3_social_commerce": "2026+: Monetization Era. View → Dollar Conversion wird 5-10x einfacher."
+    },
+    "four_tailwinds": {
+      "1_instagram_shops": "Permissionless Affiliate — bis 30 Produkte/Video tagbar. Tap → Apple Pay → Done. $10B+ Projektion 2026.",
+      "2_agentic_commerce": "Meta kaufte Manus für $2B. AI Agents in Instagram/Facebook: auto-DM-Selling, intelligente Konversation, Retargeting.",
+      "3_zero_cost_products": "Kosten für digitale Produkte → 0. Creator Brands mit AI-Ops = 100x mehr Creator-Marken.",
+      "4_ai_visual_recognition": "Bald: Klick auf Produkt im Video → AI erkennt es → direkter Kauf-Link. Affiliate 2.0."
+    }
+  },
+  "ai_workflow": {
+    "tool_stack": "Sandcastles AI (Konkurrenz-Research) + Claude Cowork (Analyse)",
+    "process": "Top-100 Competitor-Videos exportieren → Claude analysiert Transcripts → Topic-Buckets + Hook-Formate ranken → Hit-List",
+    "philosophy": "AI Enabled Creativity: AI übernimmt Research, Mensch übernimmt Creative Layer (Perspektive, Reaktion, Sauce)"
+  },
+  "storytelling_shift": {
+    "old_era": "Trend-Chasing, overstimulating editing, Subconscious-Hijacking — funktionierte wegen Angebots-Lücke",
+    "new_era": "Authentische Substanz gewinnt. Langfristige Winner sind die die echte Tiefe bieten.",
+    "implication": "Kurzfristige Tricks werden verdrängt von echter Expertise + Persönlichkeit"
+  },
+  "monetization_insight": "Skill des Attention-Generierens wird in 2 Jahren 5-10x wertvoller. Gleiche Fähigkeit = heute 30-50k/Jahr → bald 300-500k/Jahr.",
+  "patterns": {
+    "unique_mechanisms": [
+      "3-Era-Framework: Historischer Kontext zeigt warum JETZT der beste Zeitpunkt ist (FOMO + Timing-Argument)",
+      "AI Enabled Creativity: Research-Layer auslagern, Creative-Layer behalten — skaliert ohne Qualitätsverlust",
+      "Instagram Shops als New CTA-Layer: Affiliate-Links direkt im Video = Comment-Funnel wird ergänzt durch Shop-Funnel",
+      "Social Commerce 3.0 Framing: 'Massive Change = Game Resets = Kleine Player haben Vorteil' — klassisches Underdog-Motivations-Hook"
+    ],
+    "memorable_phrases": [
+      "Whenever there's massive change, the marketing game completely resets",
+      "The content IS the targeting",
+      "AI Enabled Creativity",
+      "Instagram is the apex predator of this space",
+      "Every business is technically a media company"
+    ],
+    "content_angle": "Insider-Vorsprung: Ich zeige dir was gerade passiert bevor die Masse es merkt",
+    "virality_triggers": [
+      "Timing-FOMO ('jetzt ist der Moment')",
+      "AI als Zukunfts-Framing",
+      "Konkrete Geld-Zahlen ($500k/Jahr)",
+      "Tool-Tutorial (Sandcastles + Claude) = sofort umsetzbar"
+    ]
+  }
+}

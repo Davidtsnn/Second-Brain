@@ -1,0 +1,35 @@
+{
+  "source_id": "terrycbecker_ab_test",
+  "type": "article_strategy",
+  "url": "https://terrycbecker.com/a-b-test-on-tiktok-win-on-instagram-a-smart-strategy-to-grow-your-audience/",
+  "title": "A/B Test on TikTok → Win on Instagram",
+  "collected_at": "2026-05-18",
+  "core_metaphor": {
+    "tiktok": "Content Lab (Testlabor)",
+    "instagram": "Digital Storefront (Schaufenster)"
+  },
+  "ab_test_variables": [
+    "Opening Hook (erste 3 Sekunden)",
+    "Call-to-Action + Caption-Varianten",
+    "Background Music + Text-Overlays",
+    "Format: Voiceover vs. Trending Audio",
+    "Format: Talking Head vs. Montage"
+  ],
+  "metrics_to_track": [
+    "Watch Time",
+    "Engagement Rate",
+    "Completion Rate"
+  ],
+  "instagram_optimization_steps": [
+    "Poliertes Editing",
+    "Branded Overlays",
+    "Optimierte Dimensionen + Hashtags",
+    "TikTok-Wasserzeichen entfernen (z.B. SnapTik)"
+  ],
+  "critical_rules": [
+    "Schlechte Performer NICHT auf Instagram reposten",
+    "Wasserzeichen immer entfernen vor Instagram-Upload",
+    "Batch-Recording: mehrere Varianten in einer Session aufnehmen"
+  ],
+  "core_insight": "TikTok als 'Content Lab', Instagram als 'Digital Storefront'. Nur bewiesene Winner auf Instagram deployen."
+}

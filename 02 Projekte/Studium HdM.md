@@ -16,9 +16,8 @@ Bachelor in Online Medien Management an der Hochschule der Medien Stuttgart erfo
 
 ## Nächste Schritte
 
-- [ ] Google Analytics Zertifikat abschließen (22.05.26)
-- [ ] Google-Analytics-Abgabe vergessen: per Mail beim Prof Nachreichen klären
-- [ ] Grobkonzept Social Media Posts (Deadline prüfen, war "nächsten Dienstag")
+- [x] Google Analytics Zertifikat abgegeben ✅
+- [ ] Grobkonzept Social Media Posts (diese Woche)
 - [ ] Social Media Modul organisieren (ASAP)
 - [ ] Consulting Abschlusspräsentation vorbereiten (03.07.26)
 - [ ] Webprojekt ZIP-Abgabe (03.07.26)

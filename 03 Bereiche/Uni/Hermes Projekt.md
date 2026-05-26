@@ -21,6 +21,11 @@ Freiwilliges Zusatzprojekt: Beratung für **Hermes** zum Thema Schließungen von
 - [ ] 02.07.26 – Finale Präsentation
 - [ ] 16.07.26 – Abgabe Finale Präsentation
 
+## Nächste Schritte
+
+- [ ] Präsentation weiter ausarbeiten (keine harte Deadline, wenn diese Woche Zeit bleibt)
+
 ## Ideen & Lösungsansätze
 
 ## Notizen
+obsidian://open?vault=Second%20Brain&file=07%20Anh%C3%A4nge%2FHermes%20Zwischenpr%C3%A4sentation.pdf

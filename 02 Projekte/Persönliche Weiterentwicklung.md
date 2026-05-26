@@ -29,4 +29,8 @@ In Bearbeitung
 - [ ] Erste Konzepte / Richtungen ausdenken
 - [ ] Klarheit gewinnen: Welche Richtung passt zu mir (Beratung, Implementierung, Content)?
 
+## Gewohnheit: Beziehungen pflegen
+
+Ab jetzt zur Gewohnheit machen: regelmäßig einer Person, der ich schon länger nicht geschrieben habe, eine Nachricht senden. Check-up, Treffen vorschlagen, irgendwas. Keine feste Frequenz, aber bewusst dran denken.
+
 ## Notizen
