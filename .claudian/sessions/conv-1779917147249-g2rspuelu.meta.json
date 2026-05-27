@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779917147249-g2rspuelu",
+  "providerId": "claude",
+  "title": "Manage Jannes videography customer pipeline",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779917147257,
+  "updatedAt": 1779917337490,
+  "lastResponseAt": 1779917337490,
+  "sessionId": "cd1a16b1-3ac8-42cd-ae4e-3014ddd83ce2",
+  "providerState": {
+    "providerSessionId": "cd1a16b1-3ac8-42cd-ae4e-3014ddd83ce2"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 380,
+    "cacheReadInputTokens": 40997,
+    "contextWindow": 1000000,
+    "contextTokens": 41378,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

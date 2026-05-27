@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779887795721-8qb562a30",
+  "providerId": "claude",
+  "title": "Kai ins aWork-Projekt aufnehmen",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779887795731,
+  "updatedAt": 1779916574551,
+  "lastResponseAt": 1779887853406,
+  "sessionId": "c57abc8e-b449-4970-ba30-854be0d919c1",
+  "providerState": {
+    "providerSessionId": "c57abc8e-b449-4970-ba30-854be0d919c1"
+  },
+  "currentNote": "03 Bereiche/Jannes Videograf/Kunden/David Löhlein.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 396,
+    "cacheReadInputTokens": 26865,
+    "contextWindow": 1000000,
+    "contextTokens": 27262,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

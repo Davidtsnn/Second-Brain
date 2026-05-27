@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779887667511-qxxjypg2x",
+  "providerId": "claude",
+  "title": "Termine ausmachen mit Jannes für Melina Bauer",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779887667521,
+  "updatedAt": 1779916571134,
+  "lastResponseAt": 1779887931815,
+  "sessionId": "acb6dad6-a8f0-495c-bc80-00bb0ad41ed5",
+  "providerState": {
+    "providerSessionId": "acb6dad6-a8f0-495c-bc80-00bb0ad41ed5"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2570,
+    "cacheReadInputTokens": 35717,
+    "contextWindow": 1000000,
+    "contextTokens": 38288,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

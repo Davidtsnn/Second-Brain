@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779888266017-u76jux01g",
+  "providerId": "claude",
+  "title": "Create customer profiles folder",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779888266026,
+  "updatedAt": 1779916576053,
+  "lastResponseAt": 1779888425442,
+  "sessionId": "8a989e56-f1e5-40aa-a61d-948226a2f2e6",
+  "providerState": {
+    "providerSessionId": "8a989e56-f1e5-40aa-a61d-948226a2f2e6"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 809,
+    "cacheReadInputTokens": 23891,
+    "contextWindow": 1000000,
+    "contextTokens": 24701,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779804758668-1lrv6b8b7",
+  "providerId": "claude",
+  "title": "Neuen Bereich mit Videograf Jannes starten",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779804758677,
+  "updatedAt": 1779888206815,
+  "lastResponseAt": 1779878810469,
+  "sessionId": "9d9520f3-68f4-4b6c-9fd6-ef1dd8762143",
+  "providerState": {
+    "providerSessionId": "9d9520f3-68f4-4b6c-9fd6-ef1dd8762143"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2572,
+    "cacheReadInputTokens": 58693,
+    "contextWindow": 1000000,
+    "contextTokens": 61266,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

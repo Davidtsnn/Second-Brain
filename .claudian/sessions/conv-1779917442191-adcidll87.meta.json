@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779917442191-adcidll87",
+  "providerId": "claude",
+  "title": "Plan tomorrow with overview",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779917442194,
+  "updatedAt": 1779918096676,
+  "lastResponseAt": 1779918096676,
+  "sessionId": "afe88680-0838-4b54-8f76-b3ec2b8d072d",
+  "providerState": {
+    "providerSessionId": "afe88680-0838-4b54-8f76-b3ec2b8d072d"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1151,
+    "cacheReadInputTokens": 54927,
+    "contextWindow": 1000000,
+    "contextTokens": 56079,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

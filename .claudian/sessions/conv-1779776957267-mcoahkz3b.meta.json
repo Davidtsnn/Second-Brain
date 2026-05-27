@@ -4,20 +4,20 @@
   "title": "Show yesterday's daily notes",
   "titleGenerationStatus": "success",
   "createdAt": 1779776957268,
-  "updatedAt": 1779777094972,
-  "lastResponseAt": 1779777094972,
+  "updatedAt": 1779887706016,
+  "lastResponseAt": 1779778272718,
   "sessionId": "eca7d64b-54ed-4a08-a5bf-0680090c65eb",
   "providerState": {
     "providerSessionId": "eca7d64b-54ed-4a08-a5bf-0680090c65eb"
   },
   "usage": {
-    "model": "opus",
+    "model": "sonnet",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 591,
-    "cacheReadInputTokens": 26292,
-    "contextWindow": 1000000,
-    "contextTokens": 26884,
-    "percentage": 3,
+    "cacheCreationInputTokens": 700,
+    "cacheReadInputTokens": 24547,
+    "contextWindow": 200000,
+    "contextTokens": 25248,
+    "percentage": 13,
     "contextWindowIsAuthoritative": true
   }
 }

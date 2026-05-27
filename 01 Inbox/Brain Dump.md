@@ -8,7 +8,7 @@ Wirf hier alles rein was dir einfällt. Ideen, Links, Gedanken, To-Dos. Claude s
 
 ---
 
-## Ideen für morgen (Di 26.05.)
+## Offen
 
-- Luke Gedanken sortieren
-- Ich muss meiner Psychologin schrieben das das gerade nichts für mich ist und eine neue suchen 
+- Thabea Revolut
+- Notizen-Setup aufräumen (Idee, kein konkreter Task)
