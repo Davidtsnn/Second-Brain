@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780037462905-anef6vqht",
+  "providerId": "claude",
+  "title": "Create learnBattle consulting cost plan",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780037462919,
+  "updatedAt": 1780037944067,
+  "lastResponseAt": 1780037944067,
+  "sessionId": "64dc9beb-1ed0-41c0-b20f-9bae4231e70d",
+  "providerState": {
+    "providerSessionId": "64dc9beb-1ed0-41c0-b20f-9bae4231e70d"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 230,
+    "cacheReadInputTokens": 53578,
+    "contextWindow": 1000000,
+    "contextTokens": 53810,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

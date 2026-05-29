@@ -4,43 +4,50 @@ tags: [todo]
 
 # To Do
 
-## Morgen · Do 28.05.
+## Heute · Fr 29.05.
 
-### Block 1 — Große Uni-Einheit
-- [ ] **Consulting Präsentation** fertig machen
-- [ ] **Grobkonzepte** (Social Media, Uni) fertig machen — 2 fehlende Teile 🔥
-- [ ] **Mobile Medien** lernen
-- [ ] **Consulting Report** schreiben (Deadline 29.05.)
-
-### Block 2 — Admin & Kommunikation
-- [ ] **Steuerberater schreiben** (beiden gleich)
+### Block 1 — Vormittag: Kommunikation raus
+- [ ] **Steuerberater #2 antworten** (unbedingt heute)
+- [ ] **Notar BYTC: Entwürfe schicken** · [[02 Projekte/BYTC Gründung]]
+- [ ] **Psychologin: Absage schreiben**
+- [ ] **Leo antworten + Thomas Knüwer als Speaker anfragen** · [[02 Projekte/The Future Social Clubhouse]]
 - [ ] **Geschenk für Madi** heraussuchen
-- [ ] **Linix schreiben** · Details: [[03 Bereiche/Social Media Konzept/Linix/Linix]]
-- [ ] **Psychologin:** Absage schreiben und neue suchen
 
-### Block 3 — Projekte
-- [ ] **Luke Konzept** weiter arbeiten
-- [ ] **David Löhlein Konzept** weiter arbeiten + Nachfrage raus (kontinuierlich vs. einmalig) · Details: [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
-- [ ] **Webseite Jannes** anfangen · Details: [[03 Bereiche/Jannes Videograf/Webseite]]
-- [ ] **Leo antworten & Speaker anfragen** (Thomas Knüwer zuerst) · Details: [[02 Projekte/The Future Social Clubhouse]]
+### 13:00 — Zoom Call Melina Bauer
+· [[03 Bereiche/Jannes Videograf/Kunden/Melina Bauer]]
+
+### Block 2 — Nachmittag: Konzepte
+- [ ] **Luke Konzept** weiter
+- [ ] **David Löhlein Konzept** weiter + Nachfrage (kontinuierlich vs. einmalig) · [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
+
+### Block 3 — Abend / Restzeit
+- [ ] **Mobile Medien** lernen (ein bisschen)
+
+## Verschoben
+- [ ] **Webseite Jannes** anfangen (kann warten) · [[03 Bereiche/Jannes Videograf/Webseite]]
 
 ## So 31.05.
 - [ ] **Hermes Präsentation** weiter ausarbeiten
 
-## Termine zum Merken
-- **Fr 29.05. 13:00** Zoom Call Melina Bauer · [[03 Bereiche/Jannes Videograf/Kunden/Melina Bauer]]
-- **Fr 29.05.** Consulting Report abgeben
-- **~28.05.** TFC Titel-Antwort abwarten (keine eigene Aktion nötig)
-
 ## TFC (The Future Social Clubhouse)
-- [ ] Creator anfragen (Thomas Knüwer zuerst) ← morgen in Block 3
+- [ ] Creator anfragen (Thomas Knüwer zuerst) ← heute in Block 1
 - [ ] Marvin wegen Panel-Moderation fragen
 - Details in [[02 Projekte/The Future Social Clubhouse]]
+
+## Merken (keine eigene Aktion)
+- TFC Titel-Antwort abwarten · [[02 Projekte/The Future Social Clubhouse]]
 
 ## Hinten anstellen
 - [ ] BYTC: Bilanz-Entwürfe von Steuerberatung durchlesen (vor Juli, keine akute Prio)
 
 ## Erledigt
+- [x] Kostenplan Consulting hinzugefügt (29.05.) ✅
+- [x] Consulting Report abgegeben (29.05.) ✅
+- [x] Steuerberater #1 geschrieben (29.05.) ✅
+- [x] Consulting Präsentation fertig (28.05.) ✅
+- [x] Grobkonzepte Social Media + Uni fertig (28.05.) ✅
+- [x] Consulting Report geschrieben (28.05.) ✅
+- [x] Linix geschrieben (28.05.) ✅
 - [x] CTA-Entwürfe an Iva schicken (27.05.) ✅
 - [x] Luke Gedanken sortieren (27.05.) ✅
 - [x] Mit Jannes: Social Media Vorgehen besprechen (27.05.) ✅
