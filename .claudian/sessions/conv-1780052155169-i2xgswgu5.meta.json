@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780052155169-i2xgswgu5",
+  "providerId": "claude",
+  "title": "Professionelle Call-Fragen entwickeln",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780052155178,
+  "updatedAt": 1780126635288,
+  "lastResponseAt": 1780052215765,
+  "sessionId": "8bade753-f678-40fb-98eb-1dfd370bb5fd",
+  "providerState": {
+    "providerSessionId": "8bade753-f678-40fb-98eb-1dfd370bb5fd"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1056,
+    "cacheReadInputTokens": 24403,
+    "contextWindow": 1000000,
+    "contextTokens": 25461,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

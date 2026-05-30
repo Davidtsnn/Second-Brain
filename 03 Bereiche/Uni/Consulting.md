@@ -136,60 +136,76 @@ Die 4-5 wichtigsten KPIs gebündelt:
 
 ## Kostenplan — Social Media Rollout (LearnBattle)
 
-**Ziel der Folie:** Zeigen, was es LearnBattle kostet, das von uns entwickelte Social-Media-Konzept operativ laufen zu lassen. Strategie, Funnel und Tracking-Konzept liefert unser Consulting. Dieser Plan deckt den laufenden Betrieb ab.
+**Ziel der Folie:** Zeigen, wie LearnBattle das von uns entwickelte Social-Media-Konzept mit minimalem Geldeinsatz laufen lassen kann. Strategie, Funnel und Tracking-Konzept liefert unser Consulting. Dieser Plan ist die Lean- bzw. Bootstrap-Variante.
 
-Ein realistisches Mittel-Szenario. Getrennt nach einmaligen Setup-Kosten, monatlichem externen Cash-out und interner Arbeitszeit. Alle Zahlen sind ca.-Werte für die Präsentation.
+**Grundprinzip: Geld durch Zeit ersetzen.** Organic-first, alles in-house, kostenlose Tools, Influencer nur über Barter und Affiliate, kein fixes Ads-Budget. Der externe Cash-out geht damit Richtung 0 €. Der eigentliche „Preis" des Systems ist die Arbeitszeit des eigenen Teams.
 
-**Annahmen (Ausgangsbasis):**
-- 3 Kanäle: TikTok, Instagram, YouTube (Shorts plus etwas Longform)
-- Organischer Output: ca. 12 bis 16 Short-Form-Clips pro Monat (3 bis 4 pro Woche) plus Stories und Community
-- Paid: Always-on Test-Budget auf Meta und TikTok
-- Micro-Influencer im Lern- und Studi-Niche (10k bis 50k Follower)
+**Annahmen (Lean-Setup):**
+- 2 Kernkanäle: TikTok und Instagram (Reels), YouTube Shorts als Zweitverwertung
+- Organischer Output: ca. 8 bis 12 Short-Form-Clips pro Monat, gebatcht produziert
+- Influencer: Nano- und Micro-Creator im Lern- und Studi-Niche über Gratis-Zugang plus Affiliate-Code
+- Paid: zunächst 0 €, rein organisch und über ManyChat-Funnel
 
-### A) Einmalige Setup-Kosten
+### A) Einmalige Setup-Kosten (Lean)
 
-| Posten | Beschreibung | Kosten (ca.) |
+| Posten | Wie | Kosten (ca.) |
 |---|---|---|
-| Branding & Kanal-Setup | Profile, Banner, Highlight-Icons, Content-Templates (Canva/CapCut) | 300–600 € extern, oder ca. 8 h intern |
-| Funnel- & Tracking-Umsetzung | Meta Pixel + CAPI, TikTok Pixel, GA4, GTM, UTM-System, ManyChat, Linktree aufsetzen | Konzept durch Consulting geliefert, Umsetzung ca. 10–15 h intern oder 500–1.000 € extern |
-| Content-Foundation (Batch-Dreh Tag 1) | Erster Dreh-Tag: Team vor Kamera, B-Roll, Fotos | 300–600 € |
-| **Summe Setup** | | **ca. 600–1.200 € extern** (plus ca. 20 h intern) |
+| Branding & Kanal-Setup | Profile, Banner, Templates in Canva Free, in-house | 0 € (ca. 6–8 h intern) |
+| Funnel- & Tracking-Umsetzung | Meta/TikTok Pixel, GA4, GTM, ManyChat Free, Linktree Free aufsetzen; Konzept liefert Consulting | 0 € (ca. 10–12 h intern) |
+| Content-Foundation | Erster Batch-Dreh mit Smartphone, in-house | 0 € (ca. 4 h intern) |
+| **Summe Setup** | | **0 € Cash-out** (ca. 20 h intern) |
 
-### B) Monatlich laufend — externer Cash-out
+### B) Monatlich laufend — externer Cash-out (Lean)
 
-| Posten | Annahme | Kosten/Monat (ca.) |
+| Posten | Lean-Ansatz | Kosten/Monat (ca.) |
 |---|---|---|
-| Micro-Influencer | 3 Kooperationen à ca. 250 € (Reel/TikTok, Studi-Niche) | ~750 € |
-| Video-Cutter (Freelance) | ca. 15 Short-Form-Edits à ca. 50 € | ~750 € |
-| Ads Spend (Paid) | Always-on Test Meta + TikTok | ~1.500 € |
-| AI-Tools | ChatGPT/Claude, Submagic/Opus Clip, ElevenLabs, Midjourney, Canva Pro | ~150 € |
-| Software/Funnel-Tools | ManyChat Pro, Linktree Pro, Scheduling (Metricool/Later) | ~60 € |
-| **Summe extern (Cash-out)** | | **~3.200 €/Monat** |
+| Nano-/Micro-Influencer | Barter (Gratis-Premium-Zugang) + Affiliate-Code, Provision nur bei echter Conversion und aus dem Umsatz bezahlt | 0 € fix |
+| Video-Editing | In-house mit CapCut Free + Templates | 0 € |
+| AI-Tools | Free-Tier: ChatGPT/Claude Free, CapCut, Canva Free, ElevenLabs Gratis-Kontingent | 0 €, optional 1 Schlüssel-Abo ~20 € |
+| Ads Spend | Organic-first, kein fixes Budget | 0 € |
+| Funnel-/Software-Tools | ManyChat Free (bis 1.000 Kontakte), Linktree Free, native Planung (Meta Business Suite, TikTok) | 0 € |
+| **Summe extern (Cash-out)** | | **ca. 0–20 €/Monat** |
 
 ### C) Monatlicher Zeitaufwand — eigene Leute (intern)
 
+Hier liegt der eigentliche Aufwand des Lean-Systems.
+
 | Aufgabe | Aufwand |
 |---|---|
-| Social Media Steuerung (Planung, Briefings, Influencer-Koordination, Reporting) | ca. 8 h/Woche |
-| Dreh & Rohmaterial, vor der Kamera | ca. 4 h/Woche |
-| Community Management + ManyChat-Pflege (Kommentare, DMs) | ca. 4 h/Woche |
-| **Summe** | **ca. 16 h/Woche ≈ 65–70 h/Monat** |
+| Planung, Ideen, Hooks, Influencer-Outreach | ca. 3 h/Woche |
+| Dreh & Rohmaterial, vor der Kamera | ca. 3 h/Woche |
+| Editing in-house (CapCut) | ca. 4 h/Woche |
+| Community Management + ManyChat-Pflege + Reporting | ca. 3 h/Woche |
+| **Summe** | **ca. 13 h/Woche ≈ 55 h/Monat** |
 
-Kalkulatorischer Wert dieser Zeit (vollkostenbasiert ca. 35 €/h): rund 2.300 €/Monat. Das ist kein Cash-out, aber realer Ressourceneinsatz und damit ein zentraler Faktor für die Entscheidung „selber machen vs. auslagern".
+Wenn man diese Zeit bewertet (vollkostenbasiert ca. 35 €/h), entspricht das rund 1.900 €/Monat an Aufwand. Das ist kein Geldabfluss, sondern gebundene Team-Zeit. Genau das ist der Deal beim günstigsten System: kaum Cash-out, dafür hoher Eigenanteil an Zeit.
 
-### D) Gesamtüberblick (realistisches Szenario)
+### D) Gesamtüberblick (Lean-System)
 
 | Block | Monatlich |
 |---|---|
-| Externe Kosten (Cash-out) | ~3.200 € |
-| Interne Zeit (kalkulatorisch, ca. 65 h) | ~2.300 € |
-| **Gesamt inkl. interner Zeit** | **~5.500 €/Monat** |
-| Einmalige Setup-Kosten | ~600–1.200 € extern |
+| Externer Cash-out | ca. 0–20 € |
+| Interne Zeit | ca. 55 h (bewertet ~1.900 €) |
+| Einmalige Setup-Kosten | 0 € Cash-out (ca. 20 h intern) |
 
-### E) Stellschrauben (rauf und runter)
+**Kernaussage:** Das System kostet fast kein Geld. Der Preis ist Konstanz und ca. 55 Stunden Team-Zeit pro Monat.
 
-- **Günstiger:** Influencer über Affiliate/Gutschein-Code statt Flat Fee, Cutter als Werkstudent (ca. 30 €/Clip), Editing teils intern, Ads auf ca. 750 € drosseln. Cash-out sinkt Richtung 1.500–2.000 €/Monat.
-- **Mehr Wachstum:** Ads auf 3.000–5.000 € hochfahren sobald der CPA stabil ist, mehr Influencer, zusätzlicher Editor für Longform-YouTube. Cash-out steigt auf 5.000 €+/Monat.
-- **Faustregel Ads:** Bei ca. 3 € Cost-per-Sign-Up bringt ein Budget von 1.500 € grob ca. 500 Sign-Ups/Monat. Stark abhängig von Creative und Targeting, daher als Orientierung zu verstehen.
+### E) Ehrliche Tradeoffs
+
+- Wachstum ist langsamer ohne Ads, dafür planbar und ohne finanzielles Risiko
+- Steht und fällt mit der Konstanz des internen Teams, kein externer Dienstleister fängt Lücken auf
+- Qualitäts-Ceiling durch Free-Tools, für Short-Form aber völlig ausreichend
+- Free-Tier-Grenzen werden später zum Thema, vor allem ManyChat ab 1.000 Kontakten
+
+### F) Upgrade-Pfad — erste sinnvolle Ausgaben, sobald Budget da ist
+
+Reihenfolge nach Hebel, nicht alles auf einmal:
+
+1. **Kleines Ads-Budget (150–300 €/Monat)** sobald ein organisches Format nachweislich zieht, um es gezielt zu pushen
+2. **Werkstudent-Cutter (~30 €/Clip)** wenn die interne Editing-Zeit zum Flaschenhals wird, das gibt am meisten Zeit zurück
+3. **ManyChat Pro (~15 €/Monat)** ab 1.000 Kontakten
+4. **Bezahlte Influencer-Koops** erst wenn ein Affiliate-Creator bewiesen hat, dass er konvertiert
+
+Zur Einordnung das größere Wachstums-Szenario: mit Freelance-Cutter, bezahlten Influencern, AI-Tool-Stack und ca. 1.500 € Ads liegt der Cash-out bei rund 3.200 €/Monat (Faustregel: bei ca. 3 € Cost-per-Sign-Up bringt 1.500 € Ads grob ca. 500 Sign-Ups/Monat). Das ist bewusst nicht der Startpunkt, sondern die Option für später.
 
 ## Notizen

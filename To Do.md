@@ -4,30 +4,33 @@ tags: [todo]
 
 # To Do
 
-## Heute · Fr 29.05.
+## Heute · Sa 30.05.
 
-### Block 1 — Vormittag: Kommunikation raus
-- [ ] **Steuerberater #2 antworten** (unbedingt heute)
-- [ ] **Notar BYTC: Entwürfe schicken** · [[02 Projekte/BYTC Gründung]]
-- [ ] **Psychologin: Absage schreiben**
-- [ ] **Leo antworten + Thomas Knüwer als Speaker anfragen** · [[02 Projekte/The Future Social Clubhouse]]
-- [ ] **Geschenk für Madi** heraussuchen
+### Block 1 — Vormittag (ab 10:30): Quick Wins
+- [ ] 🔥 **Geschenk für Madi** heraussuchen + bestellen
+- [ ] 🔥 **Grobkonzepte hochladen** (Uni)
+- [ ] **Revolut: Thabea einladen** (Bonus mitnehmen)
+- [ ] **Jannes Kunden anschreiben** · [[03 Bereiche/Jannes Videograf/Aktive Kunden.md]] / [[03 Bereiche/Jannes Videograf/Neue Kunden.md]]
 
-### 13:00 — Zoom Call Melina Bauer
-· [[03 Bereiche/Jannes Videograf/Kunden/Melina Bauer]]
-
-### Block 2 — Nachmittag: Konzepte
-- [ ] **Luke Konzept** weiter
-- [ ] **David Löhlein Konzept** weiter + Nachfrage (kontinuierlich vs. einmalig) · [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
+### Block 2 — Mittag/Nachmittag: Deep Work
+- [ ] 🔥 **Luke Konzept** weiter
+- [ ] **David Löhlein Konzept** weiter · [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
+- [ ] **Festival Konzept** anfangen
 
 ### Block 3 — Abend / Restzeit
-- [ ] **Mobile Medien** lernen (ein bisschen)
+- [ ] **Psychologin: Absage schreiben**
+- [ ] **Leo antworten + Thomas Knüwer Speaker-Anfrage** · [[02 Projekte/The Future Social Clubhouse]]
+- [ ] **Melina Call Notizen** aus Brain Dump in [[03 Bereiche/Jannes Videograf/Kunden/Melina Bauer]] übertragen
+- [ ] **Mobile Medien** lernen (wenn Luft)
+
+## So 31.05.
+- [ ] **BYTC Workshop** früh brainstormen · [[02 Projekte/BYTC Gründung]]
+
+## Mo 01.06.
+- [ ] **Hermes Präsentation** weiter ausarbeiten
 
 ## Verschoben
 - [ ] **Webseite Jannes** anfangen (kann warten) · [[03 Bereiche/Jannes Videograf/Webseite]]
-
-## So 31.05.
-- [ ] **Hermes Präsentation** weiter ausarbeiten
 
 ## TFC (The Future Social Clubhouse)
 - [ ] Creator anfragen (Thomas Knüwer zuerst) ← heute in Block 1
@@ -41,6 +44,9 @@ tags: [todo]
 - [ ] BYTC: Bilanz-Entwürfe von Steuerberatung durchlesen (vor Juli, keine akute Prio)
 
 ## Erledigt
+- [x] Steuerberater #2 antworten (29.05.) ✅
+- [x] Notar BYTC: Entwürfe schicken (29.05.) ✅
+- [x] Zoom Call Melina Bauer (29.05.) ✅
 - [x] Kostenplan Consulting hinzugefügt (29.05.) ✅
 - [x] Consulting Report abgegeben (29.05.) ✅
 - [x] Steuerberater #1 geschrieben (29.05.) ✅
