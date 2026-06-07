@@ -12,8 +12,8 @@ datum: 2026-06-26
 - [x] Kurzes Themen-Konzept ausarbeiten (20.-21.05.) ⚠️ dringend
 - [x] Titelvorschläge brainstormen, fix bis Mitte/Ende nächster Woche (~28.05.)
 - [x] One Pager für Speaker-Anfrage ausformulieren
-- [ ] Creator anfragen (Thomas Knüwer zuerst, Kontakt vorhanden)
-- [ ] Marvin wegen Panel-Moderation fragen
+- [x] Creator anfragen (Thomas Knüwer zuerst) → angefragt, wartet auf Antwort
+- [ ] Marvin anrufen (Mo 08.06.): wen einladen + Panel-Moderation
 
 **Termine**
 - 26.06.2026: Event, WRS Stuttgart, 11:00-15:00 + Networking
@@ -85,10 +85,10 @@ Titel-Findung bis circa 28.05. Richtung: Mischung aus „Wenn Big Tech …" und 
 | Speaker | Rolle | Kontakt über | Status |
 |---|---|---|---|
 | Merve Kayikci | Opener, SWR X Lab (Fediverse-Whitepaper) | ✅ Leo | Leo fragt an |
-| Thomas Knüwer | Creator, LinkedIn-Perspektive | ✅ David | David fragt an |
+| Thomas Knüwer | Creator, LinkedIn-Perspektive | ✅ David | angefragt, wartet auf Antwort |
 | 0711 / JvM Neckar / Preuss & Preuss | Agentur-Perspektive | Leo / WRS | Leo fragt an |
 | Sascha Pallenberg / Sebastian Klein | Creator, LinkedInfluencer (Reserve) | anfragen | offen |
-| Panel-Moderation | offen | Marvin oder HDM | David fragt Marvin |
+| Panel-Moderation | offen | Marvin oder HDM | Call Mo 08.06. |
 
 ## Offene Fragen
 

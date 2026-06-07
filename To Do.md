@@ -4,47 +4,39 @@ tags: [todo]
 
 # To Do
 
-## Heute · Di 02.06.
+## Diese Woche (Mo 08. – So 14.06.)
 
-- [ ] Uni
-- [ ] Wichtige Gespräche
+### 📅 Termine
+- [ ] **Mo Vormittag: Call mit Jörg** zu Praxissemester (wie weiter + welche Firmen wie anfragen) · [[02 Projekte/Praxissemester Eventmanagement]]
+- [ ] **Mo: Call mit Marvin** (TFC, wen einladen) · [[02 Projekte/The Future Social Clubhouse]]
 
-## Diese Woche (Mi 03. – So 08.06.)
-
-### 🔥 Madi Geschenk fertig machen
-- [ ] Etwas ausdrucken
-- [ ] Decathlon: fehlendes Teil besorgen
-
-### Deep Work
-- [ ] **David Löhlein Konzept** weiter · [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
-- [ ] **Hermes Präsentation** weiter ausarbeiten (Deadline Do 11.06.)
-
-### Schriftsachen
-- [ ] **Psychologin: Absage schreiben**
-- [ ] **Leo antworten + Thomas Knüwer Speaker-Anfrage** · [[02 Projekte/The Future Social Clubhouse]]
-- [ ] **Marvin wegen TFC Panel-Moderation fragen** · [[02 Projekte/The Future Social Clubhouse]]
-
-### 🔥 Praxissemester Eventmanagement · [[02 Projekte/Praxissemester Eventmanagement]]
-- [ ] **HdM: Praxissemester-Anforderungen & Fristen klären** (Dauer, Anerkennung, Betreuer, Vertrag)
-- [ ] **Porsche: unterschriebene Zusage absagen** (fair und zeitnah)
-- [ ] **VOK DAMS: Jörg Potel reaktivieren** (warmer Kontakt über deinen Bruder)
-- [ ] **Lebenslauf updaten + Portfolio-Link bauen**
-
-## Nächste Woche
-
+### 🔥 Deadlines
+- [ ] **Di 09.06.: Hermes Präsentation weiter** · [[02 Projekte/Studium HdM]]
 - [ ] **Do 11.06.: Hermes Präsentation abgeben**
+- [ ] **Mo–Mi: Consulting Präsentation überarbeiten**
+- [ ] **Fr 12.06.: Consulting Report fertig**
 
-## Verschoben / Wenn Luft ist
+### Praxissemester (nach Jörg-Call schärfen) · [[02 Projekte/Praxissemester Eventmanagement]]
+- [ ] Porsche: unterschriebene Zusage fair absagen
+- [ ] HdM: Praxissemester-Anforderungen & Fristen klären
+- [ ] Lebenslauf updaten + Portfolio-/Showreel-Link bauen
+- [ ] Firmen anfragen je nach Jörg-Gespräch (VOK DAMS, Implan nachfassen, Herzensagenturen)
 
-- [ ] **Revolut: Thabea einladen** (Bonus mitnehmen)
-- [ ] **Festival Akquise Konzept** anfangen · [[03 Bereiche/Jannes Videograf/Festival Akquise]]
-- [ ] **BYTC Workshop** ausarbeiten · [[02 Projekte/BYTC Gründung]]
-- [ ] **Webseite Jannes** anfangen · [[03 Bereiche/Jannes Videograf/Webseite]]
-- [ ] **TFC Creator anfragen** (Thomas Knüwer zuerst) · [[02 Projekte/The Future Social Clubhouse]]
+### Uni · [[02 Projekte/Studium HdM]]
+- [ ] Grobkonzept Social Media finalisieren
+- [ ] Social-Media-Modul organisieren
 
-## Merken (keine eigene Aktion)
+### Wenn Luft ist
+- [ ] David Löhlein: nächsten Schritt definieren · [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
+- [ ] Revolut: Thabea einladen (Bonus mitnehmen)
+- [ ] Festival Akquise Konzept anfangen · [[03 Bereiche/Jannes Videograf/Festival Akquise]]
+- [ ] BYTC Workshop ausarbeiten · [[02 Projekte/BYTC Gründung]]
+- [ ] Webseite Jannes anfangen · [[03 Bereiche/Jannes Videograf/Webseite]]
 
-- TFC Titel-Antwort abwarten · [[02 Projekte/The Future Social Clubhouse]]
+## Warten auf Antwort
+
+- TFC Speaker (Thomas Knüwer u.a.) angefragt, Antwort abwarten · [[02 Projekte/The Future Social Clubhouse]]
+- TFC Titel-Antwort abwarten
 
 ## Hinten anstellen
 
@@ -52,6 +44,10 @@ tags: [todo]
 
 ## Erledigt
 
+- [x] Psychologin: Absage raus, Projekt abgesagt ✅
+- [x] TFC: Thomas Knüwer / Speaker angefragt ✅
+- [x] Praxissemester-Projekt aufgesetzt: Fahrplan + Zielfirmen (05.06.) ✅
+- [x] Madi Geschenk (Geburtstag 06.06. durch) ✅
 - [x] Melina Call Notizen in Kundenakte übertragen (02.06.) ✅
 - [x] Jannes Kunden angeschrieben (30.05.) ✅
 - [x] Luke Konzept weiter (30.05.) ✅
@@ -70,12 +66,12 @@ tags: [todo]
 - [x] CTA-Entwürfe an Iva schicken (27.05.) ✅
 - [x] Luke Gedanken sortieren (27.05.) ✅
 - [x] Mit Jannes: Social Media Vorgehen besprechen (27.05.) ✅
-- [x] Kai (Neukunde): aWork Einladung + Projekt + 45 min Zeit eintragen (27.05.) ✅
+- [x] Kai (Neukunde): aWork Einladung + Projekt + Zeit eintragen (27.05.) ✅
 - [x] Melina Bauer: Zoom Link verschicken + Kalendereintrag (27.05.) ✅
 - [x] Mobile Medien: erste richtige Lerneinheit nach Lernplan ✅
 - [x] Google Analytics Zertifikat abgegeben ✅
 - [x] BYTC Notar: Termin bei Frömel zusagen ✅
-- [x] BYTC: Patronatserklärung unterschreiben und an Steuerberatung zurückschicken ✅
+- [x] BYTC: Patronatserklärung unterschreiben und zurückschicken ✅
 - [x] Uni: Mail an Prof wegen Google-Analytics-Abgabe ✅
 - [x] Micha (Urban Life Church): Nachricht gesendet ✅
 - [x] Halbmarathon gelaufen (So 17.05.) ✅

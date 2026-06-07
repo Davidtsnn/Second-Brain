@@ -76,7 +76,7 @@ Status-Legende: 🟢 warmer Kontakt · 🟡 beworben / in Arbeit · ⚪ noch kon
 
 - [ ] **HdM:** Praxissemester-Anforderungen und Fristen klären (Dauer, Mindeststunden, Anerkennung, Betreuer, Vertrag)
 - [ ] **Porsche:** unterschriebene Zusage fair und zeitnah absagen
-- [ ] **VOK DAMS:** Jörg Potel anrufen oder schreiben, warmen Kontakt reaktivieren
+- [ ] **VOK DAMS / Jörg:** Call Mo 08.06. Vormittag, danach Firmen-Strategie ableiten (welche wie anfragen)
 - [ ] **Implan EP:** Stand der Bewerbung nachfassen
 - [ ] Lebenslauf updaten
 - [ ] Portfolio / Showreel-Link erstellen
