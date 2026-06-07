@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780133109200-m2c79smqu",
+  "providerId": "claude",
+  "title": "Erfrage Foto-Video Musiknacht Kirchheim",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780133109213,
+  "updatedAt": 1780388717155,
+  "lastResponseAt": 1780133842278,
+  "sessionId": "6eb32baf-b2bc-42e9-a354-426dcd1a93cf",
+  "providerState": {
+    "providerSessionId": "6eb32baf-b2bc-42e9-a354-426dcd1a93cf"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 841,
+    "cacheReadInputTokens": 48697,
+    "contextWindow": 1000000,
+    "contextTokens": 49539,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

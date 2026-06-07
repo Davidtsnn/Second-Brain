@@ -4,46 +4,59 @@ tags: [todo]
 
 # To Do
 
-## Heute · Sa 30.05.
+## Heute · Di 02.06.
 
-### Block 1 — Vormittag (ab 10:30): Quick Wins
-- [ ] 🔥 **Geschenk für Madi** heraussuchen + bestellen
-- [ ] 🔥 **Grobkonzepte hochladen** (Uni)
-- [ ] **Revolut: Thabea einladen** (Bonus mitnehmen)
-- [ ] **Jannes Kunden anschreiben** · [[03 Bereiche/Jannes Videograf/Aktive Kunden.md]] / [[03 Bereiche/Jannes Videograf/Neue Kunden.md]]
+- [ ] Uni
+- [ ] Wichtige Gespräche
 
-### Block 2 — Mittag/Nachmittag: Deep Work
-- [ ] 🔥 **Luke Konzept** weiter
+## Diese Woche (Mi 03. – So 08.06.)
+
+### 🔥 Madi Geschenk fertig machen
+- [ ] Etwas ausdrucken
+- [ ] Decathlon: fehlendes Teil besorgen
+
+### Deep Work
 - [ ] **David Löhlein Konzept** weiter · [[03 Bereiche/Jannes Videograf/Kunden/David Löhlein]]
-- [ ] **Festival Konzept** anfangen
+- [ ] **Hermes Präsentation** weiter ausarbeiten (Deadline Do 11.06.)
 
-### Block 3 — Abend / Restzeit
+### Schriftsachen
 - [ ] **Psychologin: Absage schreiben**
 - [ ] **Leo antworten + Thomas Knüwer Speaker-Anfrage** · [[02 Projekte/The Future Social Clubhouse]]
-- [ ] **Melina Call Notizen** aus Brain Dump in [[03 Bereiche/Jannes Videograf/Kunden/Melina Bauer]] übertragen
-- [ ] **Mobile Medien** lernen (wenn Luft)
+- [ ] **Marvin wegen TFC Panel-Moderation fragen** · [[02 Projekte/The Future Social Clubhouse]]
 
-## So 31.05.
-- [ ] **BYTC Workshop** früh brainstormen · [[02 Projekte/BYTC Gründung]]
+### 🔥 Praxissemester Eventmanagement · [[02 Projekte/Praxissemester Eventmanagement]]
+- [ ] **HdM: Praxissemester-Anforderungen & Fristen klären** (Dauer, Anerkennung, Betreuer, Vertrag)
+- [ ] **Porsche: unterschriebene Zusage absagen** (fair und zeitnah)
+- [ ] **VOK DAMS: Jörg Potel reaktivieren** (warmer Kontakt über deinen Bruder)
+- [ ] **Lebenslauf updaten + Portfolio-Link bauen**
 
-## Mo 01.06.
-- [ ] **Hermes Präsentation** weiter ausarbeiten
+## Nächste Woche
 
-## Verschoben
-- [ ] **Webseite Jannes** anfangen (kann warten) · [[03 Bereiche/Jannes Videograf/Webseite]]
+- [ ] **Do 11.06.: Hermes Präsentation abgeben**
 
-## TFC (The Future Social Clubhouse)
-- [ ] Creator anfragen (Thomas Knüwer zuerst) ← heute in Block 1
-- [ ] Marvin wegen Panel-Moderation fragen
-- Details in [[02 Projekte/The Future Social Clubhouse]]
+## Verschoben / Wenn Luft ist
+
+- [ ] **Revolut: Thabea einladen** (Bonus mitnehmen)
+- [ ] **Festival Akquise Konzept** anfangen · [[03 Bereiche/Jannes Videograf/Festival Akquise]]
+- [ ] **BYTC Workshop** ausarbeiten · [[02 Projekte/BYTC Gründung]]
+- [ ] **Webseite Jannes** anfangen · [[03 Bereiche/Jannes Videograf/Webseite]]
+- [ ] **TFC Creator anfragen** (Thomas Knüwer zuerst) · [[02 Projekte/The Future Social Clubhouse]]
 
 ## Merken (keine eigene Aktion)
+
 - TFC Titel-Antwort abwarten · [[02 Projekte/The Future Social Clubhouse]]
 
 ## Hinten anstellen
+
 - [ ] BYTC: Bilanz-Entwürfe von Steuerberatung durchlesen (vor Juli, keine akute Prio)
 
 ## Erledigt
+
+- [x] Melina Call Notizen in Kundenakte übertragen (02.06.) ✅
+- [x] Jannes Kunden angeschrieben (30.05.) ✅
+- [x] Luke Konzept weiter (30.05.) ✅
+- [x] Mobile Medien gelernt (30.05.) ✅
+- [x] Grobkonzepte hochladen (30.05.) ✅
 - [x] Steuerberater #2 antworten (29.05.) ✅
 - [x] Notar BYTC: Entwürfe schicken (29.05.) ✅
 - [x] Zoom Call Melina Bauer (29.05.) ✅

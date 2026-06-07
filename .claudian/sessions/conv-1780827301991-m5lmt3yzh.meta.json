@@ -1,0 +1,22 @@
+{
+  "id": "conv-1780827301991-m5lmt3yzh",
+  "providerId": "claude",
+  "title": "Schreibe E-Mail für Psychologin",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780827301992,
+  "updatedAt": 1780827385103,
+  "lastResponseAt": 1780827385103,
+  "sessionId": "9e54f585-02d8-4c23-bb1f-635ac98e024a",
+  "providerState": {
+    "providerSessionId": "9e54f585-02d8-4c23-bb1f-635ac98e024a"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3879,
+    "cacheReadInputTokens": 29323,
+    "contextWindow": 200000,
+    "contextTokens": 33204,
+    "percentage": 17
+  }
+}

@@ -1,12 +1,12 @@
 ---
 tags: [jannes, kunden, neu-kunde]
-status: Call fixiert
+status: Wartet auf Anfrage
 preis: TBD
 leistung: Connect & Collect (Kundenbetreuung)
 quelle: Direktkontakt David
 kontakt: Melina Bauer
 branche: Fitnessstudios
-termin: 2026-05-29 13:00
+firma: Movement Media
 date: 2026-05-27
 ---
 
@@ -15,40 +15,28 @@ date: 2026-05-27
 ## Kontakt
 
 - **Name:** Melina Bauer
+- **Firma:** Movement Media (eigene Agentur, von Melina gegründet)
 - **Branche:** Fitnessstudios
 - **Kanal:** Zoom Call
-- Weitere Kontaktdaten TBD
 
 ## Modell
 
-**Connect & Collect** — Melina liefert uns Kunden, wir übernehmen die Betreuung.
+**Connect & Collect** — Melina übernimmt Kundenkontakt, wir machen alles andere (Social Media, Content Paket, Konzeption).
 
-Mehr ist Stand jetzt nicht bekannt. Details im Kennenlern-Call klären.
+- Melina: Akquise + Kundenbetreuung
+- Wir (BYTC/Jannes): Umsetzung (Social Media, Content Paket, Konzeption)
 
 ## Stand
 
-- **Call fixiert: Freitag, 29.05.2026 um 13:00** (Zoom)
-- Davids Kalender frei. Jannes-Verfügbarkeit für diesen Slot bestätigt.
+- Call gelaufen am 29.05.2026
+- **Warten auf konkrete Kundenanfrage von Melina**
+- Portfolio muss noch geschickt werden, sobald sie sich meldet
 
 ## To Do
 
-- [ ] Zoom Link verschicken / Termin in Kalender eintragen
-- [ ] Vor dem Call: offene Fragen finalisieren und kurz vorbereiten
-- [ ] Jannes finalen Reminder schicken
-
-## Offene Fragen für den Call
-
-- Wie genau soll Connect & Collect funktionieren (Prozess, Lead-Übergabe)?
-- Welche Art von Kunden bringt Melina (Studio-Inhaber, Endkunden, Trainer)?
-- Volumen / erwartete Anzahl an Leads?
-- Provisionsmodell / Vergütung?
-- Wer betreut die Kunden in welcher Tiefe (BYTC / Jannes scope)?
-- Exklusivität? Vertragsform?
-
-## Notizen
-
--
+- [ ] Portfolio an Melina schicken (sobald sie anfragt)
 
 ## Log
 
 - **27.05.2026** — Erstkontakt. Modell „Connect & Collect" angefragt. Vier Slot-Vorschläge für Zoom erhalten (Do/Fr).
+- **29.05.2026** — Zoom Call gelaufen. Melina hat „Movement Media" gegründet, fokussiert auf Fitnessstudios. Aufgabenteilung geklärt: sie macht Kundenkontakt, wir Social Media / Content Paket / Konzeption. Nächster Schritt: Portfolio schicken sobald erste Anfrage kommt.

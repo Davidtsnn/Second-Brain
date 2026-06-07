@@ -88,7 +88,7 @@ Startseite, Beratung, Seminare, Coaching, Über mich, Blog, Datenschutz, Impress
 ## Nächste Schritte
 
 - [x] Analyse 1. Entwurf + Feedback-Mail an Iva (2026-05-25)
-- [ ] CTA-Entwürfe an Iva schicken (diese Woche)
+- [x] CTA-Entwürfe an Iva schicken (2026-05-27) → wartet auf Antwort von Iva
 - [ ] Datenschutzseite erstellen (später)
 - [ ] SEO/GEO-Optimierung für Zielgruppe (später)
 - [ ] Nach Launch: Weiterbetreuung der Seite

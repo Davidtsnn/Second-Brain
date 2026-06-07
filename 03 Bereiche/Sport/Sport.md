@@ -19,5 +19,5 @@ Zwei parallele Säulen: **Krafttraining** (Gym) und **Ausdauer** (Laufen). Beide
 
 ## Referenzen
 
-- [[02 Projekte/Sport Halbmarathon]] — Laufen, Halbmarathon, Marathon
+- [[02 Projekte/Sport Marathon 2026]] — Laufen, Marathon-Vorbereitung
 - [[02 Projekte/Sport Gym & Aufbau]] — Krafttraining, Gewichtsziel

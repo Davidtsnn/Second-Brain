@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780652781169-hp2zswluo",
+  "providerId": "claude",
+  "title": "Draft TFC speaker invitations",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780652781181,
+  "updatedAt": 1780655302390,
+  "lastResponseAt": 1780655302390,
+  "sessionId": "b850f2f0-98da-48b8-848e-039d4863a97a",
+  "providerState": {
+    "providerSessionId": "b850f2f0-98da-48b8-848e-039d4863a97a"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 131,
+    "cacheCreationInputTokens": 6748,
+    "cacheReadInputTokens": 66940,
+    "contextWindow": 1000000,
+    "contextTokens": 73819,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

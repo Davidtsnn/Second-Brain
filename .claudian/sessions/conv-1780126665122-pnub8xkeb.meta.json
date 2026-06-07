@@ -4,8 +4,8 @@
   "title": "Plan today",
   "titleGenerationStatus": "success",
   "createdAt": 1780126665124,
-  "updatedAt": 1780127932025,
-  "lastResponseAt": 1780127932025,
+  "updatedAt": 1780388718493,
+  "lastResponseAt": 1780132120824,
   "sessionId": "9553ce73-41b1-4127-b2e4-a411552a4e57",
   "providerState": {
     "providerSessionId": "9553ce73-41b1-4127-b2e4-a411552a4e57"
@@ -13,10 +13,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 4390,
-    "cacheReadInputTokens": 37175,
+    "cacheCreationInputTokens": 1991,
+    "cacheReadInputTokens": 42146,
     "contextWindow": 1000000,
-    "contextTokens": 41566,
+    "contextTokens": 44138,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }

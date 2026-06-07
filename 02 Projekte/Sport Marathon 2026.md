@@ -1,15 +1,15 @@
 ---
-tags: [projekt, sport, laufen]
+tags: [projekt, sport, laufen, marathon]
 status: aktiv
 erstellt: 2026-05-13
 ---
 
-# Sport — Laufen & Marathon
+# Sport — Marathon 2026
 
 ## Ziele
 
-- **Kurzfristig:** ✅ Halbmarathon am **17.05.2026** absolviert
-- **Langfristig:** Marathon bis **Ende 2026**
+- **Hauptziel:** Marathon laufen bis **Ende 2026**
+- Halbmarathon am 17.05.2026 als Vorbereitung absolviert ✅
 
 ## Aktueller Stand
 
@@ -21,6 +21,6 @@ erstellt: 2026-05-13
 
 - [x] 17.05.26 — Halbmarathon gelaufen ✅
 - [ ] Marathon-Termin für Ende 2026 suchen und anmelden
-- [ ] Trainingsplan für Marathon aufbauen (nach dem HM)
+- [ ] Trainingsplan für Marathon aufbauen
 
 ## Trainingsnotes

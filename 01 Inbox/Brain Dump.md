@@ -15,15 +15,11 @@ Wirf hier alles rein was dir einfällt. Ideen, Links, Gedanken, To-Dos. Claude s
 - Workshop ausarbeiten BYTC gründung wie machen wir weiter 
 
 
-### Melina 
-- Movement Media Gegeürndet 
-- für Fitnessutdios 
-	- Social Media 
-	- Content Packet, Konzeption 
-
-- Sie übernimmt Kundenkontakt wir alles anders 
-- Ich muss ihr noch Portfolio schicken 
-  
-
 ### Jannes 
 Portfolio bauen für Festivals usw um Festivals anzuschrieben die jetzt im Sommer kommen 
+
+
+Simon ( Hochzeitspost)
+- Webseite -> Vielleicht hilfe? 
+- Google Ads / Instagram Ads 
+- Kurzes Ideen Ausarbeiten 

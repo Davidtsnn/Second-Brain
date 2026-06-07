@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780646862662-mho8u7bpv",
+  "providerId": "claude",
+  "title": "Draft notary email about appointment cancellation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780646862671,
+  "updatedAt": 1780834392540,
+  "lastResponseAt": 1780834392540,
+  "sessionId": "46d8c1e0-a960-45d8-ac66-fd7f9be49165",
+  "providerState": {
+    "providerSessionId": "46d8c1e0-a960-45d8-ac66-fd7f9be49165"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 413,
+    "cacheReadInputTokens": 78864,
+    "contextWindow": 1000000,
+    "contextTokens": 79279,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

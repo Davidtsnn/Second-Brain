@@ -17,8 +17,10 @@ Bachelor in Online Medien Management an der Hochschule der Medien Stuttgart erfo
 ## Nächste Schritte
 
 - [x] Google Analytics Zertifikat abgegeben ✅
-- [ ] Grobkonzept Social Media Posts (diese Woche)
+- [x] Grobkonzept Social Media Posts hochgeladen (30.05.) ✅
+- [ ] Grobkonzept Social Media Posts finalisieren (bis nächste Woche)
 - [ ] Social Media Modul organisieren (ASAP)
+- [ ] Hermes Präsentation (Deadline Do 11.06.)
 - [ ] Consulting Abschlusspräsentation vorbereiten (03.07.26)
 - [ ] Webprojekt ZIP-Abgabe (03.07.26)
 

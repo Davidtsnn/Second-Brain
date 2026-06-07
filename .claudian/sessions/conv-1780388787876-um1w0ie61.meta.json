@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780388787876-um1w0ie61",
+  "providerId": "claude",
+  "title": "Summarize business background and status",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780388787877,
+  "updatedAt": 1780681491311,
+  "lastResponseAt": 1780588607488,
+  "sessionId": "29ee530d-3769-4b73-a46e-3eee3ec0d281",
+  "providerState": {
+    "providerSessionId": "29ee530d-3769-4b73-a46e-3eee3ec0d281"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1539,
+    "cacheReadInputTokens": 31477,
+    "contextWindow": 1000000,
+    "contextTokens": 33017,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

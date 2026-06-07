@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780681886989-ri150f58b",
+  "providerId": "claude",
+  "title": "Create internship search project",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780681887003,
+  "updatedAt": 1780827289245,
+  "lastResponseAt": 1780738542099,
+  "sessionId": "0f024597-0a51-4d17-bb35-b62a21f8b63b",
+  "providerState": {
+    "providerSessionId": "0f024597-0a51-4d17-bb35-b62a21f8b63b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

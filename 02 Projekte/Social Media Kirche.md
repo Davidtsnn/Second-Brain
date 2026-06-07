@@ -16,21 +16,8 @@ In Bearbeitung
 
 ## Nächste Schritte
 
+- [x] Nachricht an Micha gesendet ✅
 - [ ] Team-Treffen mit dem Social Media Team organisieren (mit Micha terminieren) und nächste Steps besprechen, wie es weitergeht
-- [ ] Nachricht an Micha senden (Entwurf siehe unten) — heute Nachmittag
-
-## Nachricht an Micha (Entwurf, noch senden)
-
-> Hey Micha 😊
->
-> ich hatte dir ja vor einer Weile mal geschrieben, dass ich mich gern persönlich mit dir treffen würde, um über ein paar Sachen zu reden. Wir hatten das schon ein bisschen geplant, aber irgendwie hat es nie so richtig hingehauen. Würde das echt gern endlich mal fix machen.
->
-> Wie sieht's bei dir in den nächsten zwei Wochen aus? Sag mir einfach ein paar Zeiten die dir passen, ich richte mich nach dir.
->
-> Und dann wollten wir uns ja auch nochmal mit dem ganzen Social Media Team zusammensetzen und die nächsten Steps besprechen, wie es weitergehen kann. Du wolltest dafür ein paar Termine in die Team-Gruppe schreiben. Magst du das die Tage machen? Dann kriegen wir das endlich terminiert und alle wissen Bescheid.
->
-> Beste Grüße
-> David
 
 ## Notizen
 
